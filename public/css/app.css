@@ -1,0 +1,765 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+
+.text-black {
+    color: black;
+}
+.text-color{
+    color: #08ACF2 !important;
+}
+.bg-color{
+    background-color: #08ACF2 !important;
+}
+.bg-color-2{
+    background-color: #e4e4e4 !important;
+}
+.border-color{
+    border-color: #08ACF2 !important;
+}
+
+.bg-color-subtle{
+    background-color: #66C9E5 !important;
+}
+
+
+.border-label{
+    border: 1px solid #e4e4e4 !important;
+}
+
+.bg-color-none{
+    background: inherit !important;
+}
+
+.outline-0{
+    outline: none !important;
+}
+
+
+.noUi-tooltip{
+    display: none !important;
+}
+
+#price-range {
+    height: 8px !important; /* Set height for the track */
+}
+.hover-color:hover{
+    background-color: #ccc !important;
+}
+.modal-body {
+    max-height: 85vh;
+    overflow-y: auto; /* Đảm bảo rằng nội dung có thể cuộn khi vượt quá chiều cao */
+}
+
+
+.nav-item-product.active{
+    display: block !important;
+    border-bottom:2px solid #08ACF2 !important;
+    color: #08ACF2 !important;
+}
+
+.nav-item-product{
+    color: black !important;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    /* display: none !important; */
+}
+.main-item-product{
+    display: none;
+    transition: color 0.5s ease;
+
+}
+
+#htmlContainer{
+    max-height: 605px ;
+}
+
+.shadow {
+    box-shadow: 0px 25px 50px -12px rgba(15, 23, 42, 0.25);
+}
+
+.main-item-product.active{
+    display: block;
+}
+
+.noUi-handle {
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50% !important;
+    border: 2px solid #2980b9 !important;
+    box-shadow: none !important;
+    right: -10px !important;
+}
+.noUi-horizontal .noUi-handle {
+    top: -6px !important; /* Adjust to align the handle properly with the slider */
+}
+
+.noUi-handle::before, .noUi-handle::after {
+    content: none !important; /* Remove pseudo-elements */
+}
+
+.noUi-connect{
+    background: #08ACF2 !important;
+}
+.noUi-tooltip {
+    background: #3498db !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 3px !important;
+    padding: 5px !important;
+    font-size: 12px !important;
+}
+
+
+.border-success {
+    border-color: #198754 !important;
+}
+.border-danger{
+    border:1px solid #dc3545 !important;
+}
+.bg-color-bold{
+
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-body {
+    flex: 1;
+}
+
+.clamp-2-lines {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-img-top{
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+
+
+}
+
+.image-product{
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+.bg-c{
+    background-color: #ccc !important;
+}
+
+
+li{
+    list-style: none;
+}
+
+.hover-underline:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.b-50{
+    border-radius: 50% !important;
+
+}
+
+.b-1{
+    border-radius: 5px !important;
+}
+.b-2{
+    border-radius: 10px !important;
+}
+.b-3{
+    border-radius: 30px !important;
+}
+
+.ml-0{
+    margin-left: 0 !important;
+}
+.ml-1{
+    margin-left: 0.25rem !important;
+}
+
+.ml-2{
+    margin-left: 0.75rem !important;
+}
+.ml-3{
+    margin-left: 1.25rem !important;
+}
+.ml-4{
+    margin-left: 1.75rem !important;
+}
+
+.border-1{
+    border:1px solid #08ACF2 !important;
+}
+.nav-item a.active{
+    color: #08ACF2 !important;
+}
+.text-bold{
+    font-weight: 600;
+}
+
+.font-size-11{
+    font-size: 11px !important;
+}
+.font-size-12{
+    font-size: 12px !important;
+}
+
+
+.font-size-13{
+    font-size: 13px !important;
+}
+.font-size-14{
+    font-size: 14px !important;
+}
+.font-size-15{
+    font-size: 15px !important;
+}
+.font-size-16{
+    font-size:  16px !important;
+}
+.font-size-17{
+    font-size: 17px !important;
+}
+.font-size-18{
+    font-size: 18px !important;
+}
+.font-size-19{
+    font-size: 19px !important;
+}
+.font-size-20{
+    font-size: 20px !important;
+}
+
+.font-size-21{
+    font-size: 21px !important;
+}
+.font-size-22{
+    font-size: 22px !important;
+}
+.font-size-23{
+    font-size: 23px !important;
+}
+.font-size-24{
+    font-size: 24px !important;
+}
+
+
+
+.elementor-section{
+    background-image: url(https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/bg-01.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 150px 80px 100px;
+}
+
+.elementor-section .elementor-container {
+    max-width: 1340px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+
+
+.elementor-container .elementor-column{
+    width: 33.333%;
+}
+
+.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+    justify-content: flex-start;
+
+    text-align: center;
+    padding: 0 25px 0 0;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.elementor-element{
+    margin-bottom: 5px;
+    text-align: left;
+    width: 100%
+
+
+}
+.elementor-widget-container{
+    margin: -100px;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s, transform var(--e-transform-transition-duration, .4s);
+    text-align: center;
+}
+
+.elementor-widget-container img {
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+
+    width: 658px;
+    aspect-ratio: auto 658 / 577;
+}
+
+.gender{
+    gap: 10px;
+}
+.gender label{
+    border:1px solid #ccc;
+    width: 80px;
+    text-align: center;
+    cursor: pointer;
+
+}
+.gender input[type="radio"]{
+    display: none;
+}
+
+
+.gender input[type="radio"]:checked + label{
+    border-color: #08ACF2;
+    color: #08ACF2;
+}
+
+
+.main-sort label{
+    border:1px solid #ccc;
+    text-align: center;
+    cursor: pointer;
+
+}
+.main-sort input[type="radio"]{
+    display: none;
+}
+
+.attribute-values label{
+    cursor: pointer;
+}
+
+.attribute-values input[type="radio"]{
+    display: none;
+}
+
+
+.attribute-values input[type="radio"]:checked + label .value {
+    border-color: #08ACF2 !important;
+    color: #08ACF2 !important;
+}
+.attribute-values input[type="radio"]:checked + label .value .option-name span{
+    color: #08ACF2 !important;
+}
+
+.price-variations{
+    transition: 0.6s ease-in-out;
+}
+
+
+.main-sort input[type="radio"]:checked + label {
+    border-color: #08ACF2;
+    color: #08ACF2;
+}
+
+.main-sort input[type="radio"]:checked + label > span{
+    color: #08ACF2;
+}
+
+.main-sort input[type="radio"]:checked + label > span i {
+    color: #08ACF2;
+}
+
+
+#add-product .col-6{
+    padding: 0.25rem !important;
+}
+
+#recommendation-product .col-lg-3,
+#recommendation-product .col-6{
+    padding: 0.25rem !important;
+}
+
+input[type=checkbox]{
+    display: none;
+}
+
+#add-checkbox label{
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+input[type=checkbox]:checked + label{
+    border: 1px solid #08ACF2 !important;
+    color: #08ACF2;
+}
+
+.block-checkbox{
+    min-width: 80px;
+}
+
+
+@media (max-width: 768px) {
+    .btn-shoping-fixed {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: #fff;
+        z-index: 1000;
+        padding: 10px;
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+
+}
+
+.swiper-container {
+    overflow: hidden; /* Ẩn các phần tử vượt quá khung của swiper-container */
+}
+
+.swiper-wrapper {
+    display: flex; /* Sử dụng flexbox để các swiper-slide nằm trong một hàng */
+}
+
+.swiper-slide {
+    width: 100%; /* Đảm bảo mỗi swiper-slide chiếm toàn bộ chiều rộng của swiper-container */
+    flex: 0 0 auto; /* Đảm bảo swiper-slide không thay đổi kích thước */
+}
+
+
+/* Ensure the swiper slides take up full width and height */
+#modal-image-container {
+    width: 100%;
+    height: 100%;
+}
+
+#modal-image-container .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+}
+
+/* Ensure images fit naturally within the swiper slides */
+#modal-image-container .swiper-slide img {
+    max-width: 100%;
+    max-height: 100vh; /* Ensure the image height doesn't exceed the viewport height */
+    object-fit: contain; /* Ensures images scale proportionally */
+    border-radius: 10px; /* Optional: add border radius for better aesthetics */
+}
+
+
+@media (max-width: 992px) {
+    #htmlContainer {
+        max-height: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    #htmlContainer {
+        max-height: 100%;
+    }
+
+    .attribute {
+        display: none;
+    }
+
+    .search-sm-dis{
+        display: block !important;
+    }
+}
+
+@media (max-width: 576px) {
+    #htmlContainer {
+        max-height: 100%;
+    }
+
+    .attribute {
+       
+        display: none;
+    }
+
+    .search-sm-dis{
+        display: block !important;
+    }
+}
+
+#filter-content {
+    overflow: hidden;
+    transition: max-height 0.6s ease-in-out;
+    border: none;
+    max-height: 0;
+}
+
+.expand {
+    display: block !important;
+    border: 1px solid rgba(0,0,0,.125) !important;
+    animation: expandAnimation 0.6s forwards;
+}
+
+.shadow-top{
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1) !important;
+}
+@keyframes expandAnimation {
+    from {
+        max-height: 0;
+        padding: 0;
+    }
+    to {
+        max-height: 100%;
+    }
+}
+
+.collapses {
+    overflow: hidden;
+    padding: 0;
+    animation: collapseAnimation 0.6s forwards;
+}
+
+@keyframes collapseAnimation {
+    from {
+        max-height: 100%;
+    }
+    to {
+        max-height: 0 !important;
+        padding: 0;
+    }
+}
+
+
+.d-none-option{
+    animation: addcard 0.6s forwards;
+}
+
+@keyframes addcard {
+    from{
+        max-height:0;
+    }
+    to{
+        max-height: 100%;
+    }
+}
+
+.hiddenoption{
+    animation: identifier 0.6s forwards;
+}
+@keyframes identifier {
+    from{
+        max-height:100%;
+    }
+    to{
+        max-height: 0;
+    }
+}
+
+.checkbox-label {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    position: relative;
+}
+
+/* Dấu tích */
+.checkbox-label::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 6px;
+    height: 12px;
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    transform: translate(-50%, -50%) rotate(45deg);
+    opacity: 0;
+}
+/* Tạo hiệu ứng khi checkbox được chọn */
+input[name="checkbox-product[]"]:checked + .checkbox-label {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+/* input[name="checkbox-product"]:checked + .checkbox-label::before {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    border-radius: 2px;
+} */
+
+input[name="checkbox-product[]"]:checked + .checkbox-label::after {
+    opacity: 1;
+}
+
+.option-content {
+    display: inline-block;
+    white-space: nowrap; /* Prevents text from wrapping */
+    width: auto; /* Ensures width is determined by the content */
+}
+
+
+.bg-danger-subtle{
+    background-color: rgba(255, 0, 0, 0.1) !important;
+}
+
+.bg-success-subtle{
+    background-color: rgba(0, 128, 0, 0.1) !important;
+}
+
+
+.bg-warning-subtle
+{
+    background-color: rgba(255, 255, 0, 0.1) !important;
+}
+
+
+.add-to-cart-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.cart-icon {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.cart-icon img {
+    width: 100%;
+    height: 100%;
+}
+
+.fly-to-cart {
+    position: absolute;
+    z-index: 1000;
+    pointer-events: none;
+}
+@keyframes fly-to-cart {
+    0% {
+        transform: scale(1) translateY(0) translateX(0);
+    }
+    50% {
+        transform: scale(1.5) translateY(-100px) translateX(50px);
+    }
+    100% {
+        transform: scale(0.5) translateY(-150px) translateX(150px);
+        opacity: 0;
+    }
+}
+
+.right-0{
+    right: 0 !important;
+}
+
+.item{
+    cursor: pointer;
+}
+
+.tabs-header div{
+    cursor: pointer;
+}
+.tabs-header .active{
+    color: #08ACF2 !important;
+    border-bottom: 3px solid #08ACF2 !important;
+    border-radius: 0px !important;
+}
+
+.tabs-header .active:hover{
+    background: inherit !important;
+}
+
+.custom-truncate {
+    display: inline-block;
+    max-width: 70%; /* hoặc một giá trị cụ thể */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 575px) {
+    .card-title-responsive {
+        font-size: 13px !important; /* Kích thước cho màn hình nhỏ */
+    }
+    .mx-sp-80{
+        max-width: 60% !important;
+    }
+    .gap-756{
+        gap: 10px !important;
+    }
+
+    .rp-tr{
+        right: -10px !important;
+    }
+
+    .p-sp-1{
+        padding: 11px !important;
+   }
+
+   
+
+    
+}
+
+@media (min-width: 576px) {
+    
+
+    
+   
+}
+
+
+input[name="type_select"]{
+    display: none;
+}
+
+
+input[name="type_select"]:checked + label{
+    border-color: #08ACF2 !important;
+    color: #08ACF2;
+}
+
+#header {
+    transition: transform 0.3s ease-in-out;
+}
+
+.h-0{
+    height: 0px !important;
+}

@@ -1,0 +1,2001 @@
+user_id,product_id,action,category,age,product_name,price,sale
+46,92,view,xe-dien,36-55,Lò vi sóng Panasonic,5000000,6
+24,75,addcart,xe-dien,3-17,Tivi LG 55 inch,15000000,49
+76,84,view,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,42
+80,16,purchased,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,51
+52,8,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,39
+53,84,addcart,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,20
+85,87,purchased,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,30
+64,58,addcart,xe-dien,36-55,Smartphone Xiaomi,7000000,47
+99,44,addcart,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,39
+97,80,purchased,xe-dien,36-55,Smartphone Xiaomi,7000000,7
+48,65,addcart,tam-op-tuong,55+,Loa bluetooth JBL,3000000,33
+34,40,purchased,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,7
+53,10,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,9
+81,69,addcart,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,30
+90,43,view,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,41
+51,86,purchased,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,58
+87,57,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,9
+38,20,purchased,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,59
+34,83,purchased,tam-op-tuong,55+,Smartphone Xiaomi,7000000,12
+89,66,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,34
+38,67,purchased,xe-dien,55+,Máy ảnh Canon EOS,25000000,7
+22,63,addcart,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,40
+99,13,view,xe-dien,18-35,Smartphone Xiaomi,7000000,27
+9,56,purchased,tam-op-tuong,55+,Smartphone Xiaomi,7000000,15
+81,33,addcart,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,1
+12,59,view,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,24
+100,62,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,51
+19,8,view,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,55
+45,59,addcart,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,13
+72,2,purchased,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,35
+72,80,view,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,28
+31,58,view,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,27
+1,80,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,51
+94,62,purchased,thiet-bi-ve-sinh,36-55,Loa bluetooth JBL,3000000,44
+62,97,view,tam-op-tuong,55+,Tivi LG 55 inch,15000000,25
+9,94,view,xe-dien,3-17,Máy lọc không khí Sharp,6000000,33
+87,26,view,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,48
+43,89,purchased,xe-dien,55+,Loa bluetooth JBL,3000000,47
+61,11,view,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,13
+66,30,addcart,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,12
+55,45,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,24
+88,16,purchased,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,11
+30,69,addcart,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,39
+73,85,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,28
+56,81,view,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,41
+23,19,view,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,23
+39,15,view,xe-dien,18-35,Tivi LG 55 inch,15000000,57
+52,89,addcart,xe-dien,55+,Máy lọc không khí Sharp,6000000,14
+97,26,purchased,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,47
+86,35,purchased,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,41
+21,96,view,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,17
+31,85,view,thiet-bi-ve-sinh,36-55,Loa bluetooth JBL,3000000,35
+93,51,view,xe-dien,18-35,Tivi LG 55 inch,15000000,2
+97,41,view,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,50
+53,72,purchased,xe-dien,36-55,Máy tính xách tay Dell,20000000,1
+88,13,addcart,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,42
+89,19,purchased,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,34
+52,74,purchased,xe-dien,18-35,Lò vi sóng Panasonic,5000000,14
+9,13,purchased,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,4
+81,37,purchased,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,15
+69,96,purchased,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,24
+93,56,purchased,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,35
+80,30,purchased,xe-dien,55+,Lò vi sóng Panasonic,5000000,34
+98,57,purchased,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,48
+53,82,purchased,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,48
+4,76,view,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,30
+97,69,purchased,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,49
+100,28,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,49
+87,70,view,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,50
+15,72,addcart,tam-op-tuong,18-35,Tủ lạnh Samsung 300L,10000000,3
+40,25,addcart,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,15
+76,83,view,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,16
+63,64,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,45
+25,43,view,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,29
+35,33,purchased,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,32
+53,55,view,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,46
+27,42,view,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,29
+27,26,addcart,xe-dien,36-55,Smartphone Xiaomi,7000000,39
+21,10,addcart,xe-dien,55+,Smartphone Xiaomi,7000000,7
+14,5,purchased,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,29
+95,62,purchased,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,50
+95,61,addcart,may-loc-nuoc,55+,Máy tính xách tay Dell,20000000,42
+55,70,purchased,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,16
+18,72,addcart,xe-dien,55+,Loa bluetooth JBL,3000000,43
+72,90,addcart,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,43
+76,23,purchased,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,36
+9,81,addcart,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,19
+90,85,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,4
+72,15,view,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,42
+81,47,view,xe-dien,18-35,Máy ảnh Canon EOS,25000000,7
+44,50,purchased,xe-dien,36-55,Smartphone Xiaomi,7000000,10
+100,21,addcart,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,11
+94,70,view,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,56
+49,37,purchased,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,56
+96,40,view,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,16
+86,88,purchased,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,0
+15,29,addcart,xe-dien,36-55,Smartphone Xiaomi,7000000,2
+76,44,purchased,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,1
+81,56,addcart,xe-dien,36-55,Lò vi sóng Panasonic,5000000,4
+65,44,addcart,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,37
+24,21,view,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,50
+26,88,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,1
+92,46,addcart,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,41
+58,18,view,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,9
+58,90,purchased,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,9
+7,79,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,20
+90,82,purchased,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,17
+95,8,purchased,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,0
+31,19,purchased,may-loc-nuoc,55+,Máy tính xách tay Dell,20000000,20
+85,68,view,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,57
+21,32,view,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,31
+15,24,view,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,20
+69,31,view,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,38
+88,24,view,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,12
+70,13,addcart,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,10
+67,12,view,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,56
+49,55,purchased,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,14
+62,61,purchased,tam-op-tuong,55+,Loa bluetooth JBL,3000000,49
+64,36,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,55
+63,42,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,10
+91,40,purchased,xe-dien,55+,Tivi LG 55 inch,15000000,0
+74,90,addcart,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,42
+79,98,view,xe-dien,18-35,Tivi LG 55 inch,15000000,48
+100,89,addcart,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,1
+20,10,addcart,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,43
+39,79,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,13
+41,90,addcart,xe-dien,36-55,Loa bluetooth JBL,3000000,54
+96,43,purchased,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,20
+57,65,view,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,25
+96,50,view,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,54
+79,55,purchased,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,25
+56,10,addcart,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,7
+33,94,purchased,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,19
+31,50,addcart,xe-dien,36-55,Tivi LG 55 inch,15000000,43
+71,7,view,xe-dien,18-35,Lò vi sóng Panasonic,5000000,2
+32,18,purchased,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,51
+40,7,view,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,34
+51,23,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,10
+36,98,purchased,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,36
+71,56,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,50
+13,71,view,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,13
+35,4,purchased,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,52
+49,71,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,14
+62,95,purchased,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,10
+40,84,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,32
+4,39,addcart,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,24
+93,88,view,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,0
+52,78,addcart,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,24
+62,48,purchased,tam-op-tuong,55+,Smartphone Xiaomi,7000000,47
+84,53,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,43
+2,90,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,28
+22,42,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,43
+30,30,view,xe-dien,36-55,Smartphone Xiaomi,7000000,6
+32,86,purchased,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,34
+80,34,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,11
+80,84,purchased,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,8
+61,80,purchased,xe-dien,3-17,Máy lọc không khí Sharp,6000000,30
+10,12,purchased,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,45
+83,99,addcart,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,27
+26,97,view,xe-dien,55+,Máy ảnh Canon EOS,25000000,47
+26,93,purchased,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,13
+20,33,view,xe-dien,36-55,Máy lọc không khí Sharp,6000000,34
+32,6,view,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,19
+20,8,view,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,38
+27,28,addcart,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,53
+24,23,view,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,17
+51,89,view,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,7
+61,58,view,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,26
+12,28,purchased,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,9
+62,28,view,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,46
+84,51,purchased,xe-dien,18-35,Smartphone Xiaomi,7000000,43
+64,61,addcart,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,25
+81,75,addcart,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,46
+58,70,view,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,28
+84,1,purchased,xe-dien,18-35,Lò vi sóng Panasonic,5000000,39
+36,41,addcart,xe-dien,55+,Máy tính xách tay Dell,20000000,17
+95,25,addcart,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,23
+86,25,purchased,xe-dien,3-17,Tivi LG 55 inch,15000000,1
+39,90,view,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,36
+26,47,purchased,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,32
+92,85,view,xe-dien,3-17,Smartphone Xiaomi,7000000,45
+83,22,purchased,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,39
+92,80,addcart,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,27
+4,75,addcart,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,43
+91,7,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,3
+4,82,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,56
+49,56,addcart,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,3
+76,83,purchased,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,8
+95,63,purchased,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,2
+88,78,purchased,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,48
+33,79,view,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,58
+49,21,purchased,xe-dien,36-55,Smartphone Xiaomi,7000000,45
+19,52,purchased,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,13
+26,65,purchased,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,11
+92,12,addcart,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,5
+91,56,purchased,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,34
+60,7,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,15
+59,94,purchased,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,40
+41,36,view,xe-dien,36-55,Smartphone Xiaomi,7000000,10
+95,92,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,39
+43,38,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,15
+3,92,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,36
+81,80,view,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,51
+73,92,view,xe-dien,36-55,Lò vi sóng Panasonic,5000000,50
+83,15,addcart,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,36
+29,34,purchased,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,27
+53,90,addcart,xe-dien,18-35,Loa bluetooth JBL,3000000,42
+72,76,view,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,52
+19,30,addcart,xe-dien,3-17,Máy ảnh Canon EOS,25000000,53
+24,44,purchased,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,45
+85,94,addcart,tam-op-tuong,18-35,Smartphone Xiaomi,7000000,24
+52,90,purchased,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,35
+89,46,purchased,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,31
+9,48,view,xe-dien,18-35,Loa bluetooth JBL,3000000,13
+27,78,addcart,xe-dien,3-17,Smartphone Xiaomi,7000000,55
+58,70,addcart,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,31
+47,88,view,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,9
+50,91,addcart,xe-dien,55+,Lò vi sóng Panasonic,5000000,36
+85,91,purchased,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,51
+60,3,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,39
+93,97,view,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,58
+62,12,view,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,24
+76,64,addcart,xe-dien,55+,Máy tính xách tay Dell,20000000,7
+8,95,addcart,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,4
+49,56,view,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,31
+41,41,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,51
+22,9,purchased,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,57
+41,49,addcart,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,29
+24,43,view,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,31
+29,57,addcart,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,28
+24,22,addcart,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,4
+19,61,purchased,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,38
+77,54,view,thiet-bi-ve-sinh,18-35,Tivi LG 55 inch,15000000,33
+88,14,view,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,13
+84,34,purchased,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,13
+7,21,addcart,xe-dien,18-35,Máy ảnh Canon EOS,25000000,50
+9,44,addcart,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,2
+56,84,view,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,46
+6,42,purchased,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,41
+66,83,purchased,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,56
+70,17,addcart,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,59
+93,32,view,xe-dien,55+,Smartphone Xiaomi,7000000,1
+27,11,addcart,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,13
+80,19,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,11
+68,85,purchased,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,42
+6,60,purchased,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,55
+42,10,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,44
+80,43,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,55
+52,80,addcart,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,14
+62,65,addcart,xe-dien,55+,Loa bluetooth JBL,3000000,45
+35,74,purchased,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,56
+54,88,view,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,47
+96,15,view,tam-op-tuong,55+,Tivi LG 55 inch,15000000,42
+19,85,purchased,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,38
+14,77,addcart,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,2
+53,73,view,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,55
+89,70,addcart,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,50
+98,65,view,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,43
+62,41,purchased,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,39
+65,68,purchased,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,38
+50,70,addcart,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,25
+33,63,purchased,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,17
+22,22,purchased,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,41
+26,8,addcart,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,32
+58,6,purchased,xe-dien,18-35,Tivi LG 55 inch,15000000,2
+17,55,view,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,47
+31,61,view,xe-dien,18-35,Lò vi sóng Panasonic,5000000,48
+16,66,purchased,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,59
+65,18,addcart,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,41
+45,71,addcart,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,42
+19,63,addcart,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,9
+37,58,purchased,xe-dien,3-17,Tivi LG 55 inch,15000000,15
+26,99,purchased,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,52
+76,63,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,50
+29,74,view,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,31
+60,54,addcart,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,6
+56,38,purchased,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,36
+4,70,addcart,tam-op-tuong,55+,Tivi LG 55 inch,15000000,7
+37,32,purchased,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,41
+61,17,view,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,44
+27,15,addcart,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,42
+86,16,purchased,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,43
+20,76,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,26
+78,59,purchased,xe-dien,3-17,Máy lọc không khí Sharp,6000000,8
+26,63,purchased,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,55
+22,63,purchased,xe-dien,3-17,Lò vi sóng Panasonic,5000000,6
+8,18,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,57
+21,14,view,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,56
+46,66,purchased,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,11
+47,75,view,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,43
+12,71,purchased,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,33
+95,98,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,56
+20,22,addcart,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,26
+97,54,addcart,xe-dien,18-35,Máy lọc không khí Sharp,6000000,0
+15,63,purchased,xe-dien,55+,Tivi LG 55 inch,15000000,12
+100,97,purchased,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,52
+57,77,purchased,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,43
+76,44,purchased,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,46
+70,66,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,54
+58,87,purchased,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,30
+38,75,view,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,54
+80,12,addcart,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,54
+54,60,addcart,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,28
+60,10,view,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,43
+37,11,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,40
+75,21,view,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,20
+49,98,addcart,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,38
+95,12,purchased,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,46
+60,75,purchased,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,38
+78,76,view,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,8
+26,23,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,52
+16,84,view,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,39
+22,74,purchased,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,42
+61,93,view,tam-op-tuong,55+,Máy ảnh Canon EOS,25000000,41
+60,73,view,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,0
+47,88,view,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,50
+62,37,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,57
+62,77,addcart,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,14
+51,51,addcart,xe-dien,55+,Máy lọc không khí Sharp,6000000,19
+19,19,addcart,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,2
+66,18,view,xe-dien,36-55,Máy tính xách tay Dell,20000000,47
+68,25,view,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,38
+40,7,purchased,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,52
+99,76,purchased,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,21
+6,31,view,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,44
+60,86,view,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,6
+76,8,addcart,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,26
+57,12,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,34
+54,95,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,52
+49,97,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,42
+40,53,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,28
+37,98,addcart,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,7
+56,3,view,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,45
+44,16,view,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,27
+79,2,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,32
+54,54,addcart,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,43
+63,54,addcart,tam-op-tuong,55+,Tivi LG 55 inch,15000000,3
+52,56,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,32
+43,94,view,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,46
+9,3,purchased,thiet-bi-ve-sinh,36-55,Lò vi sóng Panasonic,5000000,53
+42,37,view,may-loc-nuoc,55+,Máy tính xách tay Dell,20000000,25
+28,74,view,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,1
+46,54,purchased,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,49
+88,78,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,22
+5,86,view,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,32
+40,21,addcart,xe-dien,18-35,Tivi LG 55 inch,15000000,37
+75,38,view,xe-dien,55+,Lò vi sóng Panasonic,5000000,5
+74,63,addcart,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,33
+9,50,purchased,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,36
+88,53,purchased,xe-dien,3-17,Máy lọc không khí Sharp,6000000,30
+21,82,view,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,38
+25,4,view,xe-dien,18-35,Máy lọc không khí Sharp,6000000,40
+40,76,purchased,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,51
+86,96,purchased,xe-dien,55+,Loa bluetooth JBL,3000000,2
+24,69,addcart,xe-dien,55+,Máy tính xách tay Dell,20000000,25
+26,1,purchased,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,51
+30,63,view,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,57
+82,94,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,43
+97,3,purchased,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,25
+54,65,addcart,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,47
+14,97,view,xe-dien,55+,Tivi LG 55 inch,15000000,10
+53,13,purchased,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,15
+16,48,view,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,59
+44,85,addcart,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,46
+95,82,addcart,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,50
+35,99,view,tam-op-tuong,55+,Smartphone Xiaomi,7000000,36
+52,48,addcart,xe-dien,3-17,Smartphone Xiaomi,7000000,25
+23,76,view,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,27
+7,8,purchased,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,49
+46,81,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,47
+41,89,purchased,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,52
+53,82,view,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,20
+90,71,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,7
+45,62,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,41
+74,96,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,40
+66,3,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,26
+61,9,view,xe-dien,18-35,Tivi LG 55 inch,15000000,25
+17,27,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,10
+47,63,purchased,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,14
+11,91,purchased,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,51
+91,48,purchased,xe-dien,3-17,Smartphone Xiaomi,7000000,41
+86,65,purchased,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,15
+15,73,purchased,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,11
+99,41,view,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,2
+14,63,view,xe-dien,36-55,Smartphone Xiaomi,7000000,36
+17,49,addcart,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,51
+100,82,addcart,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,31
+54,53,view,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,58
+30,29,view,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,24
+4,48,addcart,tam-op-tuong,55+,Loa bluetooth JBL,3000000,15
+65,83,purchased,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,27
+41,28,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,50
+27,50,purchased,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,8
+59,42,addcart,xe-dien,3-17,Lò vi sóng Panasonic,5000000,24
+91,68,purchased,xe-dien,3-17,Smartphone Xiaomi,7000000,55
+26,37,purchased,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,36
+44,56,addcart,xe-dien,55+,Smartphone Xiaomi,7000000,44
+27,32,purchased,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,15
+14,14,purchased,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,34
+48,25,purchased,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,15
+12,18,purchased,xe-dien,55+,Máy ảnh Canon EOS,25000000,18
+48,62,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,9
+98,20,purchased,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,26
+6,95,purchased,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,46
+54,29,addcart,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,6
+85,4,view,xe-dien,36-55,Loa bluetooth JBL,3000000,6
+4,75,view,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,38
+68,47,purchased,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,52
+21,77,addcart,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,14
+65,58,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,29
+87,33,addcart,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,23
+32,55,view,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,58
+19,79,purchased,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,49
+24,25,addcart,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,51
+39,34,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,21
+17,83,purchased,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,2
+55,23,view,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,43
+97,93,purchased,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,46
+39,64,addcart,xe-dien,55+,Lò vi sóng Panasonic,5000000,18
+72,93,addcart,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,50
+85,48,addcart,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,16
+99,87,purchased,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,55
+12,53,purchased,xe-dien,3-17,Smartphone Xiaomi,7000000,46
+47,3,addcart,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,24
+1,62,view,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,40
+97,16,view,tam-op-tuong,55+,Tủ lạnh Samsung 300L,10000000,16
+33,55,view,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,48
+38,38,purchased,xe-dien,55+,Smartphone Xiaomi,7000000,11
+19,46,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,37
+93,35,view,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,25
+66,79,view,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,43
+64,6,view,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,0
+93,66,view,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,57
+86,5,view,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,5
+66,87,view,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,24
+39,51,view,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,26
+2,80,purchased,xe-dien,3-17,Máy lọc không khí Sharp,6000000,32
+95,29,addcart,xe-dien,3-17,Smartphone Xiaomi,7000000,21
+7,4,purchased,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,42
+17,53,purchased,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,55
+99,51,purchased,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,22
+34,74,view,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,53
+63,29,purchased,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,1
+43,61,purchased,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,52
+33,4,view,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,11
+64,49,view,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,47
+69,4,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,57
+21,89,view,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,37
+100,54,addcart,xe-dien,36-55,Smartphone Xiaomi,7000000,50
+39,62,purchased,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,1
+55,36,purchased,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,49
+38,75,purchased,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,0
+33,25,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,9
+79,83,purchased,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,32
+54,92,view,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,28
+41,75,addcart,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,31
+94,43,addcart,xe-dien,55+,Lò vi sóng Panasonic,5000000,25
+82,60,addcart,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,42
+61,30,purchased,xe-dien,18-35,Tivi LG 55 inch,15000000,52
+42,71,purchased,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,21
+26,24,purchased,xe-dien,3-17,Máy ảnh Canon EOS,25000000,45
+2,47,addcart,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,39
+75,37,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,36
+99,15,view,tam-op-tuong,18-35,Tủ lạnh Samsung 300L,10000000,35
+59,53,addcart,xe-dien,18-35,Máy lọc không khí Sharp,6000000,5
+6,53,view,tam-op-tuong,55+,Máy ảnh Canon EOS,25000000,26
+4,6,addcart,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,55
+83,96,purchased,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,45
+50,43,view,xe-dien,36-55,Smartphone Xiaomi,7000000,39
+68,3,addcart,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,5
+8,58,purchased,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,40
+83,13,purchased,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,6
+54,77,purchased,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,52
+86,23,view,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,13
+8,24,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,52
+55,50,addcart,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,15
+13,70,view,xe-dien,36-55,Máy lọc không khí Sharp,6000000,51
+12,35,view,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,38
+84,26,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,29
+26,57,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,35
+21,11,view,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,52
+15,22,addcart,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,32
+15,82,addcart,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,2
+23,67,addcart,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,28
+25,85,addcart,thiet-bi-ve-sinh,36-55,Lò vi sóng Panasonic,5000000,8
+67,74,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,11
+38,72,view,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,5
+95,12,purchased,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,18
+92,77,view,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,14
+33,32,view,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,55
+58,5,addcart,xe-dien,55+,Máy lọc không khí Sharp,6000000,40
+48,17,addcart,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,34
+7,12,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,48
+64,5,purchased,xe-dien,55+,Máy lọc không khí Sharp,6000000,36
+23,53,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,57
+15,22,view,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,30
+94,9,view,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,5
+77,45,view,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,16
+53,28,view,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,25
+41,97,purchased,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,20
+1,37,addcart,xe-dien,18-35,Loa bluetooth JBL,3000000,15
+5,8,addcart,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,52
+39,24,purchased,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,8
+83,36,view,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,35
+82,38,purchased,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,55
+56,39,addcart,tam-op-tuong,18-35,Smartphone Xiaomi,7000000,55
+70,51,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,25
+37,14,addcart,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,40
+60,33,purchased,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,10
+33,7,purchased,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,16
+71,10,purchased,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,1
+77,67,purchased,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,23
+19,9,purchased,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,15
+79,61,purchased,xe-dien,36-55,Máy ảnh Canon EOS,25000000,20
+98,54,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,0
+24,70,view,xe-dien,36-55,Lò vi sóng Panasonic,5000000,35
+63,33,addcart,tam-op-tuong,55+,Tivi LG 55 inch,15000000,52
+49,90,view,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,9
+41,59,addcart,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,46
+50,37,addcart,xe-dien,36-55,Loa bluetooth JBL,3000000,44
+58,49,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,50
+46,92,purchased,xe-dien,3-17,Lò vi sóng Panasonic,5000000,33
+69,62,view,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,32
+53,48,purchased,xe-dien,55+,Máy lọc không khí Sharp,6000000,35
+14,58,view,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,40
+72,92,addcart,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,39
+37,91,addcart,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,37
+7,25,purchased,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,24
+84,64,addcart,xe-dien,18-35,Máy ảnh Canon EOS,25000000,34
+34,2,purchased,xe-dien,18-35,Máy ảnh Canon EOS,25000000,54
+82,78,view,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,1
+14,34,purchased,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,58
+77,60,addcart,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,15
+81,12,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,13
+73,94,purchased,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,14
+58,31,addcart,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,42
+87,43,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,40
+60,76,purchased,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,14
+23,2,view,xe-dien,3-17,Tivi LG 55 inch,15000000,45
+88,53,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,11
+63,65,addcart,xe-dien,3-17,Máy lọc không khí Sharp,6000000,20
+92,83,view,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,57
+40,93,purchased,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,51
+44,8,addcart,xe-dien,55+,Máy tính xách tay Dell,20000000,28
+37,87,addcart,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,10
+95,87,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,15
+95,86,view,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,23
+46,2,addcart,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,46
+76,1,addcart,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,50
+38,45,purchased,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,32
+88,21,addcart,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,28
+65,6,view,thiet-bi-ve-sinh,36-55,Loa bluetooth JBL,3000000,36
+41,26,purchased,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,44
+99,76,addcart,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,50
+44,45,addcart,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,42
+83,44,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,18
+44,43,purchased,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,10
+69,31,purchased,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,25
+57,13,addcart,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,51
+94,79,addcart,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,14
+81,13,view,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,45
+47,96,view,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,57
+78,33,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,10
+94,96,addcart,xe-dien,36-55,Máy lọc không khí Sharp,6000000,43
+94,97,addcart,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,17
+49,49,view,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,9
+5,58,addcart,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,3
+8,91,addcart,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,3
+84,97,view,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,24
+55,84,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,0
+94,86,addcart,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,39
+93,61,view,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,58
+57,93,view,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,27
+61,9,addcart,xe-dien,3-17,Lò vi sóng Panasonic,5000000,42
+52,67,purchased,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,54
+51,35,purchased,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,40
+21,62,addcart,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,19
+97,48,addcart,xe-dien,3-17,Máy ảnh Canon EOS,25000000,33
+48,12,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,52
+61,75,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,27
+38,25,addcart,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,7
+59,73,view,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,56
+93,83,purchased,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,31
+84,42,addcart,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,54
+94,16,view,tam-op-tuong,55+,Tivi LG 55 inch,15000000,4
+61,75,purchased,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,40
+29,24,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,18
+32,47,addcart,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,47
+11,99,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,22
+10,73,view,xe-dien,18-35,Máy tính xách tay Dell,20000000,45
+17,72,addcart,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,3
+91,63,view,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,56
+68,36,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,5
+85,86,view,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,15
+40,10,addcart,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,19
+86,47,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,3
+72,20,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,40
+66,48,purchased,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,59
+74,52,addcart,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,3
+22,76,purchased,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,54
+81,1,view,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,24
+71,4,purchased,xe-dien,18-35,Máy tính xách tay Dell,20000000,28
+19,51,view,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,24
+59,83,view,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,14
+79,10,view,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,21
+90,78,view,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,34
+92,23,purchased,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,41
+58,18,view,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,29
+18,12,purchased,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,26
+3,60,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,14
+78,68,purchased,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,55
+9,57,view,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,18
+36,49,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,52
+91,32,purchased,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,10
+38,94,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,9
+15,77,view,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,4
+31,83,purchased,xe-dien,55+,Máy ảnh Canon EOS,25000000,51
+51,39,view,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,53
+47,43,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,14
+61,57,addcart,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,59
+90,92,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,45
+54,10,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,40
+63,91,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,45
+36,57,view,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,47
+6,19,purchased,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,38
+98,31,addcart,xe-dien,18-35,Lò vi sóng Panasonic,5000000,54
+79,29,addcart,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,42
+83,14,view,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,53
+52,68,view,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,53
+72,93,view,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,51
+69,84,purchased,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,9
+8,8,addcart,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,16
+60,59,view,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,59
+76,2,addcart,xe-dien,55+,Smartphone Xiaomi,7000000,1
+22,8,view,may-loc-nuoc,55+,Máy tính xách tay Dell,20000000,24
+95,12,purchased,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,33
+66,40,view,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,21
+55,85,purchased,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,29
+39,96,purchased,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,52
+50,86,addcart,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,37
+11,69,view,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,15
+79,61,view,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,5
+34,59,addcart,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,6
+52,64,addcart,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,38
+18,41,view,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,14
+76,39,view,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,53
+96,58,view,xe-dien,18-35,Tivi LG 55 inch,15000000,13
+98,64,addcart,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,39
+79,73,addcart,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,37
+74,24,addcart,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,38
+94,6,purchased,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,40
+56,2,view,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,1
+6,84,addcart,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,7
+25,12,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,2
+91,91,view,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,25
+66,40,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,18
+81,39,addcart,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,11
+68,36,addcart,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,5
+74,4,view,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,50
+13,39,purchased,xe-dien,3-17,Loa bluetooth JBL,3000000,28
+85,68,view,xe-dien,18-35,Tivi LG 55 inch,15000000,25
+59,77,purchased,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,41
+49,36,purchased,tam-op-tuong,55+,Tivi LG 55 inch,15000000,55
+25,69,addcart,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,2
+74,50,purchased,xe-dien,3-17,Smartphone Xiaomi,7000000,47
+90,48,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,23
+96,38,purchased,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,7
+87,70,view,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,52
+90,29,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,15
+51,29,view,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,15
+46,93,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,40
+35,62,view,xe-dien,18-35,Máy tính xách tay Dell,20000000,42
+77,89,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,5
+27,62,purchased,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,9
+26,62,addcart,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,51
+78,32,view,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,26
+79,33,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,57
+29,65,addcart,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,30
+99,67,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,26
+11,30,purchased,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,5
+85,63,addcart,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,55
+69,80,view,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,42
+66,79,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,17
+45,22,addcart,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,33
+67,69,addcart,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,54
+37,42,view,xe-dien,18-35,Tivi LG 55 inch,15000000,1
+92,39,view,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,33
+67,31,addcart,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,4
+44,90,purchased,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,28
+74,51,addcart,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,9
+33,11,purchased,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,25
+81,32,view,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,46
+25,32,purchased,tam-op-tuong,55+,Máy ảnh Canon EOS,25000000,59
+8,55,purchased,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,2
+26,45,addcart,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,14
+23,16,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,17
+47,72,addcart,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,53
+38,66,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,44
+77,76,addcart,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,24
+70,50,view,xe-dien,3-17,Lò vi sóng Panasonic,5000000,9
+52,42,purchased,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,10
+81,97,addcart,xe-dien,18-35,Tivi LG 55 inch,15000000,25
+75,31,view,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,52
+82,74,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,19
+46,57,view,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,27
+68,54,view,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,14
+87,41,view,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,6
+53,49,purchased,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,13
+46,39,addcart,xe-dien,55+,Máy tính xách tay Dell,20000000,42
+1,16,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,42
+57,22,purchased,xe-dien,18-35,Máy ảnh Canon EOS,25000000,18
+30,13,view,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,22
+47,50,purchased,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,6
+93,3,purchased,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,42
+21,64,addcart,xe-dien,3-17,Tivi LG 55 inch,15000000,34
+27,33,purchased,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,12
+3,11,addcart,xe-dien,18-35,Lò vi sóng Panasonic,5000000,50
+2,76,addcart,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,26
+11,5,purchased,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,42
+67,64,addcart,xe-dien,3-17,Smartphone Xiaomi,7000000,42
+60,12,addcart,xe-dien,3-17,Máy tính xách tay Dell,20000000,5
+46,74,purchased,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,18
+63,41,view,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,0
+84,62,view,thiet-bi-ve-sinh,36-55,Loa bluetooth JBL,3000000,10
+93,18,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,48
+85,78,addcart,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,40
+68,77,addcart,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,36
+26,35,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,34
+91,70,addcart,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,5
+48,28,view,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,22
+72,55,addcart,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,57
+89,47,purchased,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,3
+21,40,addcart,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,12
+13,64,purchased,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,50
+95,31,addcart,xe-dien,18-35,Loa bluetooth JBL,3000000,44
+1,54,purchased,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,28
+18,70,addcart,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,10
+64,68,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,47
+99,85,purchased,tam-op-tuong,55+,Loa bluetooth JBL,3000000,48
+100,10,addcart,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,33
+3,41,addcart,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,15
+14,83,addcart,tam-op-tuong,55+,Máy ảnh Canon EOS,25000000,33
+92,46,purchased,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,59
+99,42,view,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,36
+32,17,addcart,xe-dien,36-55,Máy lọc không khí Sharp,6000000,45
+1,76,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,11
+60,73,view,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,8
+48,78,addcart,xe-dien,55+,Máy tính xách tay Dell,20000000,17
+47,24,view,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,48
+13,88,purchased,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,32
+37,98,purchased,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,0
+59,48,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,16
+41,64,view,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,51
+1,42,purchased,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,35
+71,42,addcart,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,47
+35,97,addcart,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,29
+3,67,addcart,xe-dien,36-55,Máy giặt Electrolux 9kg,8000000,53
+72,39,view,xe-dien,36-55,Máy giặt Electrolux 9kg,8000000,34
+20,51,view,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,50
+13,58,purchased,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,15
+43,73,purchased,tam-op-tuong,55+,Tủ lạnh Samsung 300L,10000000,22
+66,20,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,20
+42,55,addcart,xe-dien,55+,Smartphone Xiaomi,7000000,30
+34,43,addcart,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,45
+54,34,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,32
+60,84,view,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,43
+38,63,purchased,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,7
+64,80,purchased,xe-dien,36-55,Loa bluetooth JBL,3000000,16
+46,94,purchased,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,59
+19,3,purchased,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,40
+24,93,view,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,35
+50,22,view,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,29
+53,49,addcart,xe-dien,18-35,Máy tính xách tay Dell,20000000,5
+60,96,view,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,2
+70,92,addcart,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,49
+39,22,view,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,51
+49,30,purchased,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,8
+22,10,view,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,43
+45,29,view,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,13
+34,51,addcart,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,56
+24,80,view,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,59
+6,72,purchased,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,9
+22,20,addcart,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,2
+15,70,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,46
+12,74,addcart,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,22
+16,45,addcart,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,23
+43,69,purchased,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,31
+16,76,purchased,tam-op-tuong,55+,Loa bluetooth JBL,3000000,2
+78,88,purchased,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,26
+97,24,purchased,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,47
+9,55,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,59
+9,74,purchased,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,15
+71,45,purchased,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,41
+98,44,purchased,xe-dien,18-35,Tivi LG 55 inch,15000000,53
+98,13,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,46
+53,32,purchased,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,2
+46,52,view,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,58
+26,81,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,25
+3,27,view,xe-dien,55+,Máy tính xách tay Dell,20000000,31
+40,66,view,xe-dien,3-17,Lò vi sóng Panasonic,5000000,39
+44,92,purchased,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,27
+92,96,purchased,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,32
+27,70,purchased,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,59
+14,21,purchased,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,19
+49,71,addcart,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,12
+28,12,purchased,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,17
+70,37,view,xe-dien,3-17,Smartphone Xiaomi,7000000,52
+43,81,addcart,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,14
+8,47,purchased,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,8
+52,83,view,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,32
+6,7,view,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,29
+54,66,view,tam-op-tuong,55+,Tivi LG 55 inch,15000000,33
+25,85,view,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,20
+10,71,addcart,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,29
+22,21,view,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,48
+56,95,addcart,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,42
+41,31,purchased,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,34
+34,88,view,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,37
+57,39,purchased,xe-dien,36-55,Máy lọc không khí Sharp,6000000,17
+43,20,view,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,29
+85,73,addcart,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,11
+23,50,addcart,xe-dien,55+,Máy lọc không khí Sharp,6000000,23
+21,82,view,xe-dien,3-17,Máy tính xách tay Dell,20000000,51
+55,25,addcart,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,18
+4,27,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,18
+38,99,purchased,xe-dien,3-17,Smartphone Xiaomi,7000000,15
+48,75,addcart,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,33
+86,52,purchased,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,3
+45,18,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,19
+70,86,purchased,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,52
+8,98,purchased,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,9
+70,52,addcart,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,5
+31,38,addcart,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,44
+83,56,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,6
+93,23,purchased,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,2
+34,9,view,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,22
+67,80,purchased,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,45
+52,10,view,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,57
+55,30,view,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,24
+74,2,purchased,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,50
+1,17,purchased,xe-dien,3-17,Máy tính xách tay Dell,20000000,55
+33,86,addcart,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,48
+44,91,purchased,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,46
+33,6,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,32
+26,69,purchased,xe-dien,36-55,Loa bluetooth JBL,3000000,45
+18,80,addcart,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,50
+42,69,addcart,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,23
+5,73,addcart,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,32
+75,23,addcart,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,14
+16,65,addcart,xe-dien,3-17,Tivi LG 55 inch,15000000,41
+8,50,purchased,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,28
+99,96,addcart,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,22
+31,41,purchased,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,6
+18,97,purchased,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,27
+36,64,view,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,54
+70,64,purchased,xe-dien,18-35,Tivi LG 55 inch,15000000,25
+73,92,view,tam-op-tuong,55+,Smartphone Xiaomi,7000000,16
+75,33,addcart,xe-dien,3-17,Máy lọc không khí Sharp,6000000,38
+49,37,view,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,10
+16,13,view,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,4
+75,44,addcart,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,50
+20,82,addcart,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,47
+26,9,view,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,9
+5,33,addcart,xe-dien,3-17,Máy ảnh Canon EOS,25000000,20
+79,25,view,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,14
+42,58,view,xe-dien,3-17,Loa bluetooth JBL,3000000,48
+78,44,addcart,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,32
+39,49,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,31
+84,12,addcart,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,37
+93,58,purchased,tam-op-tuong,18-35,Smartphone Xiaomi,7000000,12
+29,97,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,5
+21,76,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,14
+6,55,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,37
+23,29,addcart,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,18
+7,41,addcart,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,16
+8,37,view,xe-dien,55+,Máy ảnh Canon EOS,25000000,0
+56,66,purchased,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,38
+8,20,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,40
+91,26,purchased,xe-dien,36-55,Loa bluetooth JBL,3000000,56
+4,76,addcart,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,14
+71,69,view,tam-op-tuong,18-35,Máy ảnh Canon EOS,25000000,19
+5,88,addcart,tam-op-tuong,18-35,Smartphone Xiaomi,7000000,28
+67,7,purchased,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,39
+24,14,view,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,6
+87,17,purchased,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,5
+63,47,addcart,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,38
+26,58,purchased,xe-dien,36-55,Loa bluetooth JBL,3000000,10
+20,2,addcart,xe-dien,55+,Tivi LG 55 inch,15000000,55
+95,69,view,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,29
+20,2,addcart,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,8
+49,6,addcart,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,4
+10,59,addcart,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,0
+68,10,view,xe-dien,18-35,Tivi LG 55 inch,15000000,2
+90,21,purchased,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,40
+26,82,purchased,xe-dien,36-55,Máy lọc không khí Sharp,6000000,9
+85,68,view,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,39
+55,22,purchased,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,17
+32,74,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,29
+94,35,view,xe-dien,3-17,Máy tính xách tay Dell,20000000,18
+63,65,purchased,tam-op-tuong,18-35,Máy ảnh Canon EOS,25000000,54
+47,11,addcart,xe-dien,36-55,Máy giặt Electrolux 9kg,8000000,47
+75,73,view,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,22
+72,74,purchased,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,46
+93,4,view,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,58
+61,17,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,20
+31,52,purchased,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,3
+86,17,view,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,56
+68,53,view,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,2
+66,25,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,16
+83,45,view,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,39
+26,86,purchased,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,15
+92,90,addcart,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,34
+28,59,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,9
+70,14,addcart,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,31
+98,1,view,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,16
+72,84,purchased,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,15
+23,21,view,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,15
+84,66,purchased,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,23
+1,45,view,xe-dien,18-35,Smartphone Xiaomi,7000000,19
+70,14,view,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,37
+90,75,view,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,39
+68,14,addcart,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,15
+69,22,purchased,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,29
+41,82,view,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,53
+11,9,purchased,xe-dien,3-17,Máy ảnh Canon EOS,25000000,41
+87,49,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,25
+66,72,purchased,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,35
+86,40,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,31
+87,41,view,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,32
+61,80,addcart,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,13
+44,82,view,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,55
+27,23,view,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,12
+68,64,addcart,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,9
+92,63,purchased,xe-dien,18-35,Máy lọc không khí Sharp,6000000,51
+95,83,purchased,xe-dien,3-17,Máy ảnh Canon EOS,25000000,7
+41,19,view,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,36
+92,6,purchased,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,48
+66,78,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,46
+4,94,view,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,37
+69,47,view,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,5
+87,40,view,xe-dien,55+,Lò vi sóng Panasonic,5000000,54
+66,45,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,32
+95,38,view,xe-dien,3-17,Máy tính xách tay Dell,20000000,58
+7,54,purchased,xe-dien,36-55,Máy ảnh Canon EOS,25000000,50
+55,67,purchased,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,25
+51,27,addcart,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,56
+82,73,view,xe-dien,3-17,Lò vi sóng Panasonic,5000000,46
+39,32,view,xe-dien,18-35,Loa bluetooth JBL,3000000,9
+79,48,addcart,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,35
+44,83,addcart,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,45
+36,45,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,1
+5,92,purchased,xe-dien,18-35,Smartphone Xiaomi,7000000,25
+17,26,purchased,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,10
+74,52,view,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,28
+90,58,view,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,43
+56,87,purchased,xe-dien,3-17,Tivi LG 55 inch,15000000,17
+20,47,purchased,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,45
+28,17,view,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,49
+54,52,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,43
+45,13,view,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,22
+72,56,addcart,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,45
+24,71,view,xe-dien,55+,Máy tính xách tay Dell,20000000,16
+79,18,view,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,55
+45,25,view,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,24
+88,79,view,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,37
+77,97,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,53
+16,84,view,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,19
+40,63,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,45
+39,72,addcart,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,44
+52,91,view,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,21
+40,6,view,thiet-bi-ve-sinh,36-55,Lò vi sóng Panasonic,5000000,26
+7,33,addcart,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,16
+86,89,addcart,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,50
+23,74,addcart,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,46
+88,28,purchased,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,35
+97,71,purchased,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,30
+70,3,purchased,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,0
+92,76,addcart,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,40
+23,84,purchased,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,34
+12,62,view,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,46
+84,38,addcart,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,7
+44,74,addcart,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,34
+17,75,purchased,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,34
+24,12,purchased,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,21
+59,19,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,27
+62,73,addcart,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,51
+3,32,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,17
+42,20,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,39
+69,74,view,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,46
+17,64,view,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,30
+10,26,addcart,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,2
+25,2,purchased,xe-dien,3-17,Máy lọc không khí Sharp,6000000,6
+64,72,addcart,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,38
+45,71,addcart,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,12
+49,87,purchased,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,10
+67,86,addcart,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,24
+49,14,purchased,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,39
+75,25,purchased,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,3
+60,44,addcart,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,16
+3,39,addcart,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,49
+4,11,addcart,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,9
+91,96,addcart,xe-dien,36-55,Loa bluetooth JBL,3000000,6
+44,92,view,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,38
+34,83,view,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,1
+93,88,purchased,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,11
+15,46,addcart,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,48
+17,42,view,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,28
+97,48,addcart,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,27
+5,78,view,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,1
+87,32,addcart,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,52
+12,43,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,17
+67,92,addcart,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,34
+68,43,addcart,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,15
+26,27,purchased,xe-dien,36-55,Loa bluetooth JBL,3000000,59
+6,95,view,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,21
+42,4,purchased,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,6
+54,58,purchased,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,58
+96,87,view,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,40
+22,12,purchased,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,10
+27,45,purchased,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,2
+68,75,addcart,tam-op-tuong,18-35,Máy ảnh Canon EOS,25000000,25
+3,6,view,xe-dien,3-17,Máy lọc không khí Sharp,6000000,41
+72,44,purchased,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,31
+84,93,addcart,xe-dien,18-35,Lò vi sóng Panasonic,5000000,32
+76,52,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,26
+57,79,view,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,11
+100,56,purchased,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,54
+33,5,addcart,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,30
+27,72,view,tam-op-tuong,55+,Tủ lạnh Samsung 300L,10000000,44
+63,36,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,1
+23,5,purchased,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,55
+74,16,addcart,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,32
+79,1,purchased,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,24
+18,34,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,52
+84,50,addcart,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,56
+18,87,view,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,59
+9,80,purchased,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,12
+60,87,purchased,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,33
+72,73,addcart,xe-dien,36-55,Máy giặt Electrolux 9kg,8000000,58
+50,31,view,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,13
+25,76,purchased,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,0
+57,88,view,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,57
+35,38,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,29
+93,96,purchased,xe-dien,3-17,Lò vi sóng Panasonic,5000000,7
+22,38,purchased,xe-dien,36-55,Máy ảnh Canon EOS,25000000,40
+77,32,view,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,9
+92,73,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,11
+44,33,view,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,21
+70,41,view,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,12
+25,76,view,xe-dien,36-55,Smartphone Xiaomi,7000000,36
+61,77,purchased,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,44
+49,26,purchased,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,19
+56,87,view,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,20
+43,42,addcart,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,37
+1,81,view,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,31
+27,47,view,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,10
+27,6,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,34
+65,12,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,3
+70,34,view,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,44
+66,54,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,11
+66,76,purchased,xe-dien,18-35,Máy lọc không khí Sharp,6000000,46
+89,92,view,xe-dien,3-17,Tivi LG 55 inch,15000000,17
+97,56,view,xe-dien,55+,Lò vi sóng Panasonic,5000000,15
+75,66,addcart,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,52
+2,63,addcart,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,30
+30,69,purchased,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,21
+20,2,view,xe-dien,18-35,Máy ảnh Canon EOS,25000000,5
+11,79,purchased,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,32
+3,27,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,12
+89,62,view,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,20
+42,74,addcart,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,30
+100,4,view,xe-dien,3-17,Tivi LG 55 inch,15000000,14
+39,85,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,47
+94,56,purchased,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,26
+49,91,view,xe-dien,3-17,Smartphone Xiaomi,7000000,35
+52,66,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,6
+74,78,view,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,53
+37,22,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,24
+15,36,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,14
+89,27,addcart,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,10
+59,40,view,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,49
+45,49,view,xe-dien,55+,Máy tính xách tay Dell,20000000,32
+93,57,addcart,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,3
+63,46,purchased,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,19
+2,20,addcart,thiet-bi-ve-sinh,36-55,Máy ảnh Canon EOS,25000000,49
+51,36,addcart,xe-dien,3-17,Lò vi sóng Panasonic,5000000,39
+97,75,addcart,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,39
+71,57,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,51
+30,95,view,xe-dien,18-35,Máy tính xách tay Dell,20000000,8
+14,5,addcart,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,1
+11,16,purchased,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,57
+34,48,view,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,6
+98,18,purchased,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,44
+28,14,purchased,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,53
+26,20,purchased,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,35
+67,26,addcart,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,37
+68,21,addcart,xe-dien,55+,Tivi LG 55 inch,15000000,46
+26,34,addcart,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,21
+43,20,addcart,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,18
+9,54,view,xe-dien,3-17,Máy tính xách tay Dell,20000000,12
+75,31,addcart,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,22
+35,26,addcart,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,54
+60,87,addcart,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,53
+22,53,purchased,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,16
+29,88,purchased,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,19
+23,79,view,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,46
+7,68,addcart,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,33
+56,66,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,55
+67,39,view,xe-dien,3-17,Máy ảnh Canon EOS,25000000,45
+37,35,addcart,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,21
+55,44,purchased,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,18
+29,61,purchased,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,51
+14,48,view,xe-dien,36-55,Máy tính xách tay Dell,20000000,6
+10,86,purchased,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,30
+14,93,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,14
+18,10,view,xe-dien,36-55,Máy tính xách tay Dell,20000000,39
+13,59,addcart,xe-dien,36-55,Máy lọc không khí Sharp,6000000,11
+92,79,addcart,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,48
+87,9,addcart,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,0
+94,51,addcart,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,49
+30,76,view,tam-op-tuong,18-35,Tủ lạnh Samsung 300L,10000000,41
+34,37,addcart,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,41
+88,54,view,xe-dien,36-55,Máy lọc không khí Sharp,6000000,31
+54,80,purchased,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,7
+84,12,view,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,36
+74,42,purchased,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,18
+78,72,purchased,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,6
+51,77,purchased,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,39
+1,52,purchased,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,16
+34,25,view,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,10
+3,60,view,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,30
+79,95,purchased,xe-dien,18-35,Máy lọc không khí Sharp,6000000,19
+24,64,purchased,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,3
+51,70,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,3
+79,8,addcart,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,38
+75,76,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,51
+59,28,purchased,xe-dien,3-17,Smartphone Xiaomi,7000000,10
+83,25,purchased,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,4
+30,31,addcart,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,45
+51,90,addcart,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,23
+6,69,view,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,24
+43,27,purchased,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,41
+52,34,view,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,25
+91,36,view,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,10
+30,43,view,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,52
+89,16,addcart,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,31
+28,38,purchased,xe-dien,18-35,Máy ảnh Canon EOS,25000000,19
+42,48,purchased,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,7
+87,63,purchased,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,4
+8,77,addcart,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,52
+36,94,addcart,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,6
+72,11,purchased,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,2
+28,15,view,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,31
+51,39,view,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,38
+39,65,view,xe-dien,18-35,Máy tính xách tay Dell,20000000,30
+43,7,addcart,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,24
+11,59,view,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,2
+2,67,purchased,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,33
+98,71,addcart,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,20
+12,78,purchased,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,37
+91,47,addcart,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,50
+30,9,view,xe-dien,18-35,Máy tính xách tay Dell,20000000,32
+13,37,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,30
+51,71,addcart,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,27
+58,90,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,56
+62,54,view,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,59
+98,95,addcart,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,31
+33,75,addcart,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,25
+56,53,addcart,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,1
+88,47,view,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,54
+92,31,purchased,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,31
+52,38,purchased,tam-op-tuong,18-35,Tủ lạnh Samsung 300L,10000000,45
+99,26,view,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,1
+45,60,purchased,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,21
+41,85,purchased,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,37
+8,42,view,xe-dien,18-35,Loa bluetooth JBL,3000000,18
+7,73,addcart,xe-dien,3-17,Loa bluetooth JBL,3000000,50
+20,71,purchased,xe-dien,18-35,Tivi LG 55 inch,15000000,58
+55,1,purchased,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,35
+5,83,view,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,10
+12,38,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,34
+30,39,view,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,29
+42,62,view,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,27
+33,51,addcart,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,39
+20,2,purchased,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,58
+18,89,purchased,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,52
+20,84,purchased,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,29
+50,58,view,tam-op-tuong,55+,Tivi LG 55 inch,15000000,14
+81,4,view,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,52
+94,97,view,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,27
+80,21,view,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,33
+71,94,addcart,xe-dien,3-17,Lò vi sóng Panasonic,5000000,3
+96,67,addcart,tam-op-tuong,18-35,Máy ảnh Canon EOS,25000000,40
+28,79,addcart,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,54
+1,13,view,xe-dien,3-17,Smartphone Xiaomi,7000000,2
+71,83,view,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,40
+53,28,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,54
+95,32,addcart,xe-dien,55+,Loa bluetooth JBL,3000000,15
+40,20,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,8
+73,92,purchased,xe-dien,55+,Tivi LG 55 inch,15000000,31
+48,28,purchased,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,31
+93,77,view,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,28
+49,4,purchased,xe-dien,3-17,Smartphone Xiaomi,7000000,46
+76,70,view,xe-dien,55+,Máy ảnh Canon EOS,25000000,18
+91,35,addcart,xe-dien,3-17,Máy ảnh Canon EOS,25000000,44
+77,15,purchased,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,39
+12,39,addcart,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,38
+3,19,addcart,xe-dien,36-55,Tivi LG 55 inch,15000000,59
+51,38,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,38
+83,41,purchased,xe-dien,36-55,Smartphone Xiaomi,7000000,40
+86,54,purchased,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,35
+90,27,addcart,xe-dien,3-17,Máy lọc không khí Sharp,6000000,4
+99,12,purchased,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,33
+24,3,view,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,39
+57,45,view,xe-dien,55+,Máy tính xách tay Dell,20000000,31
+21,45,addcart,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,41
+8,16,purchased,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,48
+97,10,purchased,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,9
+25,82,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,52
+4,3,purchased,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,2
+73,70,addcart,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,1
+41,20,purchased,tam-op-tuong,55+,Tivi LG 55 inch,15000000,36
+11,70,purchased,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,38
+95,79,addcart,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,25
+48,2,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,6
+100,83,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,50
+99,74,addcart,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,51
+94,46,view,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,35
+84,38,purchased,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,22
+87,94,purchased,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,37
+37,77,purchased,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,49
+55,80,addcart,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,47
+48,96,purchased,xe-dien,18-35,Lò vi sóng Panasonic,5000000,30
+32,6,view,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,9
+67,28,addcart,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,50
+8,13,purchased,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,48
+46,53,addcart,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,44
+81,40,purchased,tam-op-tuong,55+,Máy ảnh Canon EOS,25000000,59
+84,76,purchased,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,50
+48,92,purchased,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,20
+96,17,purchased,tam-op-tuong,3-17,Lò vi sóng Panasonic,5000000,30
+67,28,addcart,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,11
+19,64,addcart,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,33
+4,7,addcart,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,49
+84,82,purchased,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,52
+69,73,view,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,46
+15,20,view,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,8
+69,79,addcart,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,35
+60,60,view,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,59
+60,92,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,31
+60,14,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,47
+31,85,addcart,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,55
+72,55,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,21
+25,18,purchased,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,39
+10,85,purchased,xe-dien,55+,Smartphone Xiaomi,7000000,34
+7,49,purchased,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,45
+4,66,addcart,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,23
+50,93,view,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,55
+64,4,addcart,xe-dien,36-55,Lò vi sóng Panasonic,5000000,39
+15,99,purchased,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,52
+45,44,addcart,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,33
+63,90,purchased,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,59
+96,80,view,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,16
+95,90,view,xe-dien,18-35,Smartphone Xiaomi,7000000,42
+26,18,addcart,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,51
+35,11,view,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,0
+76,60,view,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,50
+47,29,purchased,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,36
+64,44,purchased,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,24
+58,14,view,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,42
+1,84,view,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,41
+43,75,purchased,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,59
+10,46,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,6
+38,82,view,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,55
+46,3,purchased,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,47
+25,52,purchased,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,38
+83,68,addcart,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,0
+81,48,addcart,xe-dien,3-17,Máy ảnh Canon EOS,25000000,23
+85,32,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,20
+8,86,view,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,31
+39,93,addcart,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,40
+54,26,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,25
+93,28,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,5
+73,89,view,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,57
+33,78,addcart,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,35
+99,94,addcart,xe-dien,3-17,Máy tính xách tay Dell,20000000,12
+61,83,purchased,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,10
+47,59,view,xe-dien,55+,Máy tính xách tay Dell,20000000,47
+97,91,view,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,29
+37,92,view,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,12
+2,77,purchased,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,53
+23,34,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,12
+15,3,view,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,59
+58,37,addcart,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,12
+36,77,addcart,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,47
+100,85,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,3
+18,22,purchased,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,32
+52,28,view,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,37
+81,53,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,28
+20,69,purchased,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,25
+43,91,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,49
+43,86,view,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,11
+24,27,addcart,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,33
+66,31,addcart,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,39
+55,61,addcart,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,3
+18,27,addcart,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,29
+60,37,addcart,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,15
+72,19,view,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,10
+96,6,view,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,56
+87,71,purchased,xe-dien,18-35,Máy ảnh Canon EOS,25000000,59
+50,90,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,32
+37,86,addcart,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,33
+40,23,addcart,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,35
+40,68,addcart,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,34
+76,53,view,thiet-bi-ve-sinh,18-35,Tivi LG 55 inch,15000000,15
+79,87,addcart,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,14
+57,69,addcart,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,58
+49,52,purchased,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,31
+28,37,addcart,xe-dien,18-35,Máy tính xách tay Dell,20000000,0
+22,1,view,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,14
+14,13,purchased,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,16
+29,91,view,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,57
+11,59,purchased,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,37
+100,13,purchased,xe-dien,18-35,Loa bluetooth JBL,3000000,20
+70,82,addcart,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,46
+12,9,purchased,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,3
+39,27,addcart,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,1
+26,33,purchased,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,46
+71,88,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,22
+1,96,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,43
+97,76,view,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,16
+72,32,addcart,xe-dien,55+,Máy ảnh Canon EOS,25000000,47
+55,59,addcart,xe-dien,3-17,Máy lọc không khí Sharp,6000000,42
+87,37,addcart,xe-dien,55+,Tivi LG 55 inch,15000000,32
+60,78,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,15
+18,65,purchased,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,24
+88,29,view,xe-dien,18-35,Máy lọc không khí Sharp,6000000,59
+66,28,purchased,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,11
+29,33,addcart,xe-dien,18-35,Lò vi sóng Panasonic,5000000,31
+91,21,addcart,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,53
+78,83,addcart,xe-dien,36-55,Máy tính xách tay Dell,20000000,2
+71,18,purchased,xe-dien,18-35,Máy tính xách tay Dell,20000000,6
+66,55,addcart,xe-dien,3-17,Tivi LG 55 inch,15000000,14
+10,23,addcart,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,6
+90,12,view,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,6
+75,46,view,xe-dien,55+,Loa bluetooth JBL,3000000,0
+24,57,purchased,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,54
+7,39,view,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,7
+31,89,view,xe-dien,36-55,Máy giặt Electrolux 9kg,8000000,51
+89,71,purchased,xe-dien,18-35,Loa bluetooth JBL,3000000,29
+83,95,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,57
+93,69,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,38
+87,13,purchased,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,9
+92,65,addcart,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,33
+6,25,addcart,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,10
+73,4,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,27
+58,27,addcart,xe-dien,55+,Máy lọc không khí Sharp,6000000,16
+35,36,view,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,15
+15,8,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,49
+79,21,view,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,40
+22,95,view,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,28
+69,6,addcart,xe-dien,18-35,Tivi LG 55 inch,15000000,6
+22,15,view,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,3
+45,81,view,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,37
+54,47,addcart,tam-op-tuong,55+,Smartphone Xiaomi,7000000,29
+86,33,view,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,56
+1,60,purchased,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,30
+7,73,view,xe-dien,3-17,Smartphone Xiaomi,7000000,31
+38,91,addcart,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,41
+27,43,view,xe-dien,18-35,Máy ảnh Canon EOS,25000000,3
+75,48,addcart,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,41
+46,62,view,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,55
+59,12,addcart,xe-dien,36-55,Loa bluetooth JBL,3000000,24
+100,1,view,xe-dien,18-35,Máy lọc không khí Sharp,6000000,10
+94,33,view,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,1
+24,5,purchased,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,20
+2,71,purchased,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,9
+88,96,purchased,tam-op-tuong,55+,Smartphone Xiaomi,7000000,1
+88,39,purchased,tam-op-tuong,18-35,Tủ lạnh Samsung 300L,10000000,11
+47,13,purchased,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,13
+66,33,addcart,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,56
+57,94,view,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,36
+44,38,view,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,6
+3,82,view,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,0
+1,35,purchased,xe-dien,36-55,Máy lọc không khí Sharp,6000000,42
+76,76,view,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,33
+94,49,addcart,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,46
+10,1,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,19
+55,81,view,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,25
+73,35,purchased,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,33
+92,80,purchased,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,25
+45,92,purchased,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,10
+78,51,view,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,46
+2,8,purchased,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,46
+28,6,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,42
+4,22,view,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,50
+63,40,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,43
+65,65,view,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,37
+70,43,addcart,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,38
+51,23,purchased,xe-dien,3-17,Tivi LG 55 inch,15000000,15
+57,93,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,37
+73,14,purchased,xe-dien,55+,Smartphone Xiaomi,7000000,12
+9,64,purchased,xe-dien,36-55,Máy lọc không khí Sharp,6000000,49
+20,57,view,thiet-bi-ve-sinh,18-35,Tủ lạnh Samsung 300L,10000000,11
+61,27,view,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,51
+75,53,addcart,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,21
+60,23,view,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,36
+50,26,addcart,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,26
+2,78,addcart,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,5
+29,2,addcart,tam-op-tuong,3-17,Tủ lạnh Samsung 300L,10000000,28
+25,44,view,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,56
+14,76,addcart,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,57
+35,46,purchased,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,17
+43,9,view,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,33
+26,71,purchased,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,55
+83,94,view,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,0
+36,30,view,xe-dien,55+,Máy tính xách tay Dell,20000000,31
+21,53,addcart,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,19
+24,41,purchased,xe-dien,36-55,Lò vi sóng Panasonic,5000000,12
+81,94,view,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,12
+85,44,addcart,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,18
+6,73,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,13
+50,58,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,33
+73,79,view,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,56
+5,56,addcart,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,11
+20,3,addcart,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,26
+20,32,purchased,tam-op-tuong,36-55,Loa bluetooth JBL,3000000,42
+71,71,view,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,29
+31,83,addcart,xe-dien,18-35,Lò vi sóng Panasonic,5000000,50
+40,76,purchased,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,48
+92,83,view,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,38
+40,18,addcart,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,6
+56,76,addcart,xe-dien,55+,Máy tính xách tay Dell,20000000,56
+48,94,purchased,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,58
+22,7,purchased,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,5
+45,30,addcart,xe-dien,3-17,Smartphone Xiaomi,7000000,38
+43,47,addcart,xe-dien,18-35,Loa bluetooth JBL,3000000,11
+99,92,purchased,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,14
+1,64,view,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,30
+40,20,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,38
+30,33,purchased,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,6
+87,49,purchased,thiet-bi-ve-sinh,18-35,Tivi LG 55 inch,15000000,56
+66,96,purchased,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,51
+100,17,addcart,tam-op-tuong,18-35,Tủ lạnh Samsung 300L,10000000,17
+74,25,view,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,28
+61,96,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,5
+88,14,view,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,14
+2,37,view,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,40
+85,25,view,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,36
+26,11,purchased,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,2
+90,30,view,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,40
+4,39,view,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,51
+44,35,addcart,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,14
+44,96,view,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,11
+27,91,addcart,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,31
+79,47,purchased,xe-dien,3-17,Máy tính xách tay Dell,20000000,30
+64,54,purchased,xe-dien,3-17,Máy lọc không khí Sharp,6000000,56
+47,31,view,thiet-bi-ve-sinh,18-35,Tivi LG 55 inch,15000000,2
+68,85,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,12
+30,54,view,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,48
+28,5,view,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,28
+71,58,view,thiet-bi-ve-sinh,36-55,Loa bluetooth JBL,3000000,53
+45,65,purchased,xe-dien,55+,Loa bluetooth JBL,3000000,35
+59,28,view,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,9
+10,31,view,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,27
+90,35,addcart,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,26
+96,90,view,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,36
+49,71,view,xe-dien,18-35,Loa bluetooth JBL,3000000,20
+29,61,addcart,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,55
+86,43,addcart,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,41
+8,80,addcart,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,41
+22,57,view,may-loc-nuoc,55+,Máy tính xách tay Dell,20000000,0
+51,10,addcart,tam-op-tuong,55+,Loa bluetooth JBL,3000000,35
+31,13,addcart,xe-dien,3-17,Máy lọc không khí Sharp,6000000,26
+85,60,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,8
+42,14,purchased,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,21
+13,53,view,xe-dien,36-55,Máy tính xách tay Dell,20000000,12
+20,79,view,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,1
+11,50,view,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,23
+12,3,purchased,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,28
+95,45,view,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,30
+58,49,view,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,32
+78,34,view,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,28
+53,49,purchased,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,48
+31,61,purchased,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,7
+24,85,addcart,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,33
+5,29,purchased,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,39
+43,5,addcart,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,8
+68,66,purchased,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,42
+54,4,purchased,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,44
+10,47,view,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,16
+75,44,addcart,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,55
+39,16,addcart,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,42
+37,28,addcart,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,56
+68,68,purchased,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,46
+80,22,view,xe-dien,36-55,Loa bluetooth JBL,3000000,22
+50,76,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,47
+75,86,view,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,22
+33,65,view,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,57
+64,63,view,xe-dien,3-17,Tivi LG 55 inch,15000000,20
+7,47,view,xe-dien,3-17,Loa bluetooth JBL,3000000,54
+72,72,view,thiet-bi-ve-sinh,18-35,Điều hòa Daikin 12000 BTU,12000000,21
+34,41,view,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,45
+100,4,view,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,0
+75,14,view,tam-op-tuong,18-35,Smartphone Xiaomi,7000000,22
+68,89,view,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,37
+96,65,view,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,53
+41,60,view,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,56
+91,41,view,may-loc-nuoc,3-17,Máy tính xách tay Dell,20000000,8
+46,43,purchased,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,14
+11,45,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,55
+100,54,addcart,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,35
+39,44,addcart,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,11
+57,5,purchased,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,25
+5,92,purchased,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,29
+89,91,view,xe-dien,3-17,Loa bluetooth JBL,3000000,42
+12,86,view,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,33
+49,81,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,29
+94,62,addcart,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,42
+63,22,purchased,xe-dien,18-35,Lò vi sóng Panasonic,5000000,1
+80,9,purchased,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,39
+38,88,addcart,xe-dien,36-55,Máy tính xách tay Dell,20000000,33
+64,30,view,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,19
+39,65,view,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,13
+20,7,addcart,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,3
+65,35,view,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,20
+5,85,addcart,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,23
+42,88,purchased,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,47
+35,77,view,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,25
+23,7,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,23
+94,16,purchased,xe-dien,36-55,Máy tính xách tay Dell,20000000,45
+24,89,purchased,tam-op-tuong,55+,Tivi LG 55 inch,15000000,40
+96,63,purchased,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,21
+97,47,purchased,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,32
+81,81,purchased,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,30
+38,83,view,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,39
+75,88,purchased,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,33
+84,74,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,26
+100,65,purchased,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,0
+69,98,purchased,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,45
+97,56,view,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,4
+68,80,purchased,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,36
+28,25,purchased,xe-dien,18-35,Máy lọc không khí Sharp,6000000,27
+57,3,purchased,xe-dien,55+,Loa bluetooth JBL,3000000,0
+95,71,view,xe-dien,3-17,Máy tính xách tay Dell,20000000,35
+87,43,purchased,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,46
+65,69,view,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,50
+20,5,addcart,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,26
+69,56,addcart,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,27
+49,86,view,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,59
+20,1,addcart,xe-dien,36-55,Máy tính xách tay Dell,20000000,5
+11,45,purchased,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,19
+82,34,view,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,40
+40,50,view,xe-dien,3-17,Máy ảnh Canon EOS,25000000,6
+62,56,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,35
+17,27,view,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,20
+26,51,view,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,47
+56,48,purchased,xe-dien,3-17,Tivi LG 55 inch,15000000,28
+12,33,view,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,21
+43,21,addcart,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,2
+9,20,purchased,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,9
+69,6,addcart,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,7
+63,3,addcart,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,56
+12,38,view,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,26
+47,43,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,29
+39,20,purchased,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,57
+78,49,view,xe-dien,3-17,Lò vi sóng Panasonic,5000000,58
+88,81,purchased,thiet-bi-ve-sinh,36-55,Lò vi sóng Panasonic,5000000,36
+79,29,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,13
+12,96,addcart,xe-dien,55+,Loa bluetooth JBL,3000000,7
+40,63,addcart,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,30
+58,95,purchased,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,28
+19,77,purchased,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,41
+12,98,purchased,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,37
+46,31,purchased,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,52
+70,67,addcart,xe-dien,3-17,Máy ảnh Canon EOS,25000000,34
+33,2,view,xe-dien,18-35,Tivi LG 55 inch,15000000,54
+54,43,view,xe-dien,55+,Máy tính xách tay Dell,20000000,40
+94,19,purchased,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,41
+34,10,purchased,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,35
+96,52,purchased,xe-dien,3-17,Tủ lạnh Samsung 300L,10000000,31
+33,61,purchased,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,27
+74,66,purchased,xe-dien,3-17,Máy tính xách tay Dell,20000000,45
+48,78,addcart,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,23
+18,67,view,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,18
+84,10,addcart,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,6
+98,93,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,7
+70,66,addcart,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,31
+64,58,purchased,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,49
+61,21,view,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,29
+55,88,purchased,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,30
+2,98,view,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,38
+28,95,view,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,55
+96,8,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,18
+74,43,view,thiet-bi-ve-sinh,18-35,Tivi LG 55 inch,15000000,40
+12,96,addcart,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,0
+94,85,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,46
+19,20,addcart,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,30
+40,67,view,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,36
+29,99,view,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,3
+29,77,view,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,57
+12,89,view,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,54
+14,56,view,tam-op-tuong,55+,Loa bluetooth JBL,3000000,1
+79,56,addcart,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,58
+84,68,view,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,19
+89,33,view,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,27
+27,53,addcart,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,59
+58,26,addcart,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,49
+7,66,addcart,xe-dien,18-35,Loa bluetooth JBL,3000000,10
+47,43,purchased,xe-dien,55+,Lò vi sóng Panasonic,5000000,51
+100,77,view,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,56
+43,95,view,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,30
+48,70,view,xe-dien,55+,Máy tính xách tay Dell,20000000,21
+86,78,purchased,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,34
+38,94,view,tam-op-tuong,36-55,Tủ lạnh Samsung 300L,10000000,21
+68,66,purchased,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,6
+31,78,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,53
+2,57,addcart,xe-dien,3-17,Máy tính xách tay Dell,20000000,7
+68,63,addcart,xe-dien,18-35,Tivi LG 55 inch,15000000,9
+26,10,purchased,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,48
+51,11,view,tam-op-tuong,55+,Tivi LG 55 inch,15000000,35
+6,35,addcart,xe-dien,36-55,Máy ảnh Canon EOS,25000000,32
+2,10,view,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,37
+83,29,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,11
+59,56,purchased,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,39
+77,29,view,xe-dien,36-55,Tivi LG 55 inch,15000000,2
+17,86,view,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,21
+6,94,addcart,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,46
+41,48,view,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,3
+23,6,view,xe-dien,55+,Smartphone Xiaomi,7000000,7
+44,84,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,6
+20,49,purchased,xe-dien,18-35,Máy ảnh Canon EOS,25000000,20
+22,59,addcart,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,51
+63,4,addcart,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,30
+70,35,addcart,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,14
+24,76,purchased,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,31
+1,16,view,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,21
+99,43,addcart,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,57
+94,28,purchased,xe-dien,55+,Loa bluetooth JBL,3000000,9
+72,43,view,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,48
+31,15,view,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,16
+25,59,purchased,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,21
+32,24,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,2
+3,96,view,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,54
+10,20,purchased,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,20
+54,69,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,3
+1,12,addcart,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,31
+41,76,purchased,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,32
+93,35,addcart,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,50
+51,40,addcart,may-loc-nuoc,3-17,Máy giặt Electrolux 9kg,8000000,28
+52,83,purchased,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,53
+34,30,view,tam-op-tuong,18-35,Smartphone Xiaomi,7000000,36
+59,17,addcart,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,47
+49,48,addcart,thiet-bi-ve-sinh,36-55,Lò vi sóng Panasonic,5000000,58
+17,9,view,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,9
+23,48,addcart,tam-op-tuong,18-35,Máy ảnh Canon EOS,25000000,8
+64,76,addcart,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,4
+42,56,purchased,tam-op-tuong,36-55,Máy giặt Electrolux 9kg,8000000,16
+51,12,addcart,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,52
+26,54,addcart,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,40
+24,87,purchased,thiet-bi-ve-sinh,36-55,Loa bluetooth JBL,3000000,11
+27,15,purchased,tam-op-tuong,3-17,Điều hòa Daikin 12000 BTU,12000000,47
+64,62,view,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,35
+91,27,view,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,36
+85,70,addcart,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,46
+99,30,addcart,xe-dien,18-35,Máy tính xách tay Dell,20000000,11
+79,62,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,23
+43,35,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,46
+28,24,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,46
+84,29,purchased,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,28
+52,69,view,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,47
+43,98,view,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,19
+26,32,view,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,9
+41,40,purchased,xe-dien,36-55,Tivi LG 55 inch,15000000,5
+80,45,purchased,may-loc-nuoc,3-17,Loa bluetooth JBL,3000000,53
+57,69,view,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,55
+31,15,addcart,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,18
+75,93,purchased,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,25
+58,38,addcart,may-loc-nuoc,55+,Máy tính xách tay Dell,20000000,38
+4,5,addcart,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,0
+58,64,addcart,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,33
+88,6,purchased,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,35
+48,79,purchased,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,44
+47,25,purchased,xe-dien,3-17,Máy ảnh Canon EOS,25000000,27
+10,44,view,thiet-bi-ve-sinh,36-55,Loa bluetooth JBL,3000000,6
+20,64,addcart,xe-dien,18-35,Loa bluetooth JBL,3000000,33
+98,48,purchased,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,26
+65,10,purchased,xe-dien,36-55,Smartphone Xiaomi,7000000,58
+51,6,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,43
+38,23,purchased,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,7
+75,84,addcart,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,1
+37,52,purchased,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,32
+10,47,view,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,38
+58,55,addcart,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,11
+78,33,view,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,2
+56,69,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,41
+4,5,addcart,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,51
+5,44,view,thiet-bi-ve-sinh,18-35,Máy giặt Electrolux 9kg,8000000,26
+54,13,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,53
+4,11,purchased,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,2
+23,61,view,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,37
+56,32,purchased,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,35
+27,29,addcart,tam-op-tuong,36-55,Smartphone Xiaomi,7000000,6
+30,80,view,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,7
+12,54,purchased,xe-dien,3-17,Máy ảnh Canon EOS,25000000,7
+92,11,view,xe-dien,3-17,Máy tính xách tay Dell,20000000,1
+41,8,addcart,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,38
+80,53,view,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,2
+66,33,purchased,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,11
+27,67,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,26
+41,89,purchased,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,58
+13,33,view,tam-op-tuong,55+,Máy tính xách tay Dell,20000000,42
+11,13,view,tam-op-tuong,55+,Tủ lạnh Samsung 300L,10000000,27
+89,34,purchased,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,11
+86,4,addcart,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,14
+39,11,purchased,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,34
+80,92,view,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,21
+17,88,purchased,may-loc-nuoc,18-35,Loa bluetooth JBL,3000000,21
+39,30,view,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,33
+86,97,purchased,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,39
+37,94,addcart,may-loc-nuoc,36-55,Máy lọc không khí Sharp,6000000,31
+58,11,purchased,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,45
+67,4,addcart,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,32
+32,71,addcart,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,11
+68,89,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,42
+76,20,addcart,thiet-bi-ve-sinh,3-17,Máy lọc không khí Sharp,6000000,57
+17,71,view,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,43
+13,17,view,xe-dien,3-17,Loa bluetooth JBL,3000000,56
+33,93,purchased,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,50
+7,38,purchased,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,11
+64,29,view,xe-dien,18-35,Lò vi sóng Panasonic,5000000,32
+93,24,view,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,3
+49,37,view,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,18
+63,42,view,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,1
+55,98,addcart,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,1
+26,79,addcart,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,7
+92,57,addcart,thiet-bi-ve-sinh,18-35,Loa bluetooth JBL,3000000,51
+69,5,purchased,tam-op-tuong,18-35,Tivi LG 55 inch,15000000,20
+100,6,view,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,11
+47,69,addcart,xe-dien,3-17,Máy tính xách tay Dell,20000000,38
+12,17,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,40
+56,37,view,xe-dien,36-55,Máy giặt Electrolux 9kg,8000000,6
+87,51,view,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,12
+87,54,view,xe-dien,3-17,Máy lọc không khí Sharp,6000000,51
+60,32,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,16
+34,66,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,14
+6,13,addcart,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,39
+75,87,addcart,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,43
+8,80,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,15
+81,46,addcart,may-loc-nuoc,55+,Lò vi sóng Panasonic,5000000,7
+74,7,view,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,14
+9,10,addcart,xe-dien,36-55,Máy lọc không khí Sharp,6000000,34
+11,49,addcart,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,32
+40,47,addcart,xe-dien,55+,Máy ảnh Canon EOS,25000000,13
+34,32,purchased,xe-dien,3-17,Loa bluetooth JBL,3000000,21
+15,52,purchased,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,37
+69,95,addcart,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,13
+10,28,purchased,xe-dien,3-17,Loa bluetooth JBL,3000000,45
+60,64,addcart,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,22
+5,11,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,16
+13,4,purchased,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,5
+88,93,addcart,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,30
+56,15,view,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,18
+80,62,view,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,14
+97,85,view,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,33
+85,90,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,1
+46,43,view,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,29
+85,8,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,10
+1,4,purchased,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,27
+54,56,view,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,20
+2,20,purchased,xe-dien,18-35,Smartphone Xiaomi,7000000,10
+13,62,purchased,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,52
+2,71,addcart,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,19
+79,74,view,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,43
+6,76,purchased,tam-op-tuong,18-35,Máy tính xách tay Dell,20000000,26
+49,44,view,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,28
+5,46,addcart,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,28
+57,10,view,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,11
+15,40,view,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,25
+44,62,purchased,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,41
+79,32,purchased,thiet-bi-ve-sinh,3-17,Máy giặt Electrolux 9kg,8000000,29
+22,64,addcart,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,14
+82,3,addcart,may-loc-nuoc,36-55,Máy giặt Electrolux 9kg,8000000,42
+26,76,addcart,may-loc-nuoc,18-35,Tủ lạnh Samsung 300L,10000000,9
+96,74,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,48
+82,67,addcart,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,44
+40,16,view,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,53
+7,68,addcart,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,37
+64,61,view,xe-dien,18-35,Máy giặt Electrolux 9kg,8000000,3
+64,30,purchased,thiet-bi-ve-sinh,55+,Máy tính xách tay Dell,20000000,57
+65,92,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,33
+8,88,purchased,xe-dien,36-55,Smartphone Xiaomi,7000000,41
+28,6,purchased,tam-op-tuong,55+,Máy ảnh Canon EOS,25000000,46
+55,94,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,44
+99,1,addcart,thiet-bi-ve-sinh,18-35,Tivi LG 55 inch,15000000,40
+14,56,view,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,48
+82,77,view,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,17
+52,95,view,thiet-bi-ve-sinh,3-17,Máy tính xách tay Dell,20000000,52
+6,6,view,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,59
+96,76,view,xe-dien,55+,Máy lọc không khí Sharp,6000000,49
+70,84,view,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,5
+63,99,purchased,may-loc-nuoc,55+,Tivi LG 55 inch,15000000,51
+83,3,purchased,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,8
+46,36,purchased,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,37
+75,56,purchased,tam-op-tuong,3-17,Tivi LG 55 inch,15000000,51
+93,12,purchased,xe-dien,36-55,Tủ lạnh Samsung 300L,10000000,49
+97,92,view,xe-dien,3-17,Máy tính xách tay Dell,20000000,4
+60,44,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,40
+79,51,addcart,xe-dien,55+,Máy ảnh Canon EOS,25000000,4
+79,9,addcart,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,49
+30,67,addcart,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,31
+9,25,purchased,xe-dien,18-35,Máy tính xách tay Dell,20000000,14
+59,25,addcart,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,31
+37,97,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,41
+64,98,addcart,may-loc-nuoc,18-35,Máy ảnh Canon EOS,25000000,11
+36,22,addcart,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,49
+76,46,view,thiet-bi-ve-sinh,36-55,Máy tính xách tay Dell,20000000,13
+75,48,view,xe-dien,18-35,Lò vi sóng Panasonic,5000000,13
+37,84,addcart,may-loc-nuoc,3-17,Tivi LG 55 inch,15000000,59
+72,51,addcart,xe-dien,55+,Loa bluetooth JBL,3000000,20
+29,51,addcart,xe-dien,18-35,Loa bluetooth JBL,3000000,42
+59,83,view,xe-dien,36-55,Máy lọc không khí Sharp,6000000,36
+97,86,addcart,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,45
+96,25,purchased,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,46
+62,86,purchased,xe-dien,55+,Loa bluetooth JBL,3000000,57
+54,38,view,may-loc-nuoc,18-35,Tivi LG 55 inch,15000000,38
+80,66,addcart,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,39
+33,49,view,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,10
+83,38,addcart,tam-op-tuong,55+,Tủ lạnh Samsung 300L,10000000,20
+65,16,purchased,may-loc-nuoc,55+,Tủ lạnh Samsung 300L,10000000,26
+17,92,addcart,xe-dien,36-55,Máy lọc không khí Sharp,6000000,55
+8,34,purchased,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,45
+96,81,purchased,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,0
+9,47,view,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,3
+34,69,addcart,tam-op-tuong,18-35,Máy ảnh Canon EOS,25000000,9
+86,52,addcart,tam-op-tuong,3-17,Smartphone Xiaomi,7000000,6
+55,85,view,xe-dien,3-17,Máy lọc không khí Sharp,6000000,29
+62,21,view,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,39
+49,81,addcart,thiet-bi-ve-sinh,18-35,Máy ảnh Canon EOS,25000000,43
+58,61,purchased,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,19
+26,74,purchased,xe-dien,55+,Loa bluetooth JBL,3000000,28
+79,48,view,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,48
+37,93,addcart,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,2
+59,86,addcart,may-loc-nuoc,3-17,Điều hòa Daikin 12000 BTU,12000000,24
+35,12,addcart,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,23
+21,2,view,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,7
+100,97,addcart,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,37
+21,68,addcart,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,8
+4,1,view,tam-op-tuong,55+,Smartphone Xiaomi,7000000,12
+32,60,view,xe-dien,3-17,Loa bluetooth JBL,3000000,17
+73,82,purchased,may-loc-nuoc,18-35,Lò vi sóng Panasonic,5000000,59
+39,36,purchased,xe-dien,55+,Máy giặt Electrolux 9kg,8000000,15
+87,94,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,9
+3,90,addcart,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,15
+49,14,addcart,may-loc-nuoc,55+,Điều hòa Daikin 12000 BTU,12000000,36
+10,65,view,thiet-bi-ve-sinh,18-35,Smartphone Xiaomi,7000000,3
+38,11,view,tam-op-tuong,55+,Loa bluetooth JBL,3000000,9
+28,58,purchased,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,40
+80,56,addcart,xe-dien,18-35,Điều hòa Daikin 12000 BTU,12000000,59
+35,50,view,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,48
+10,31,view,may-loc-nuoc,36-55,Tủ lạnh Samsung 300L,10000000,4
+50,30,view,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,42
+66,72,view,tam-op-tuong,55+,Tủ lạnh Samsung 300L,10000000,56
+74,59,view,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,11
+81,4,purchased,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,34
+73,51,addcart,xe-dien,55+,Điều hòa Daikin 12000 BTU,12000000,51
+76,65,addcart,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,12
+50,95,view,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,24
+41,10,purchased,thiet-bi-ve-sinh,3-17,Máy ảnh Canon EOS,25000000,42
+74,92,view,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,37
+6,55,addcart,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,57
+87,79,view,tam-op-tuong,18-35,Loa bluetooth JBL,3000000,47
+47,85,purchased,tam-op-tuong,18-35,Tủ lạnh Samsung 300L,10000000,43
+63,51,purchased,xe-dien,3-17,Điều hòa Daikin 12000 BTU,12000000,58
+3,14,addcart,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,42
+2,73,purchased,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,54
+46,87,purchased,tam-op-tuong,55+,Máy lọc không khí Sharp,6000000,14
+94,73,addcart,thiet-bi-ve-sinh,55+,Loa bluetooth JBL,3000000,18
+12,78,addcart,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,3
+34,45,addcart,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,46
+68,45,purchased,tam-op-tuong,3-17,Máy giặt Electrolux 9kg,8000000,27
+36,44,addcart,thiet-bi-ve-sinh,55+,Điều hòa Daikin 12000 BTU,12000000,55
+77,31,purchased,tam-op-tuong,55+,Điều hòa Daikin 12000 BTU,12000000,32
+66,5,view,tam-op-tuong,18-35,Điều hòa Daikin 12000 BTU,12000000,40
+68,25,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,20
+29,37,view,thiet-bi-ve-sinh,55+,Tủ lạnh Samsung 300L,10000000,49
+53,87,view,xe-dien,18-35,Lò vi sóng Panasonic,5000000,26
+63,94,purchased,xe-dien,55+,Tivi LG 55 inch,15000000,0
+31,93,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,12
+55,89,purchased,xe-dien,55+,Máy ảnh Canon EOS,25000000,11
+50,7,view,may-loc-nuoc,36-55,Tivi LG 55 inch,15000000,59
+53,9,addcart,xe-dien,36-55,Điều hòa Daikin 12000 BTU,12000000,20
+61,78,purchased,tam-op-tuong,55+,Smartphone Xiaomi,7000000,3
+75,88,purchased,thiet-bi-ve-sinh,3-17,Tivi LG 55 inch,15000000,56
+13,76,purchased,xe-dien,18-35,Máy lọc không khí Sharp,6000000,58
+51,30,purchased,thiet-bi-ve-sinh,36-55,Điều hòa Daikin 12000 BTU,12000000,56
+16,91,view,xe-dien,36-55,Lò vi sóng Panasonic,5000000,6
+50,21,addcart,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,32
+20,65,purchased,tam-op-tuong,3-17,Máy tính xách tay Dell,20000000,59
+95,72,view,xe-dien,36-55,Máy tính xách tay Dell,20000000,38
+94,93,addcart,tam-op-tuong,55+,Loa bluetooth JBL,3000000,7
+73,65,purchased,thiet-bi-ve-sinh,55+,Máy ảnh Canon EOS,25000000,51
+59,86,view,xe-dien,3-17,Máy ảnh Canon EOS,25000000,52
+21,24,purchased,xe-dien,36-55,Smartphone Xiaomi,7000000,1
+37,7,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,14
+88,89,addcart,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,51
+62,11,view,xe-dien,36-55,Máy ảnh Canon EOS,25000000,12
+21,5,purchased,tam-op-tuong,18-35,Smartphone Xiaomi,7000000,39
+61,29,purchased,may-loc-nuoc,55+,Smartphone Xiaomi,7000000,12
+70,57,view,thiet-bi-ve-sinh,36-55,Máy lọc không khí Sharp,6000000,29
+44,56,view,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,34
+84,93,purchased,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,49
+95,19,purchased,may-loc-nuoc,18-35,Smartphone Xiaomi,7000000,53
+99,10,addcart,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,28
+54,49,addcart,xe-dien,18-35,Smartphone Xiaomi,7000000,47
+35,74,purchased,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,41
+3,27,addcart,thiet-bi-ve-sinh,36-55,Máy giặt Electrolux 9kg,8000000,7
+93,9,addcart,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,49
+28,50,view,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,11
+17,95,addcart,may-loc-nuoc,3-17,Tủ lạnh Samsung 300L,10000000,24
+64,58,purchased,xe-dien,18-35,Máy tính xách tay Dell,20000000,7
+49,18,view,may-loc-nuoc,3-17,Máy lọc không khí Sharp,6000000,18
+33,68,purchased,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,0
+58,96,view,xe-dien,3-17,Tivi LG 55 inch,15000000,33
+13,32,view,may-loc-nuoc,3-17,Smartphone Xiaomi,7000000,21
+3,59,view,thiet-bi-ve-sinh,18-35,Lò vi sóng Panasonic,5000000,50
+3,37,purchased,may-loc-nuoc,18-35,Máy lọc không khí Sharp,6000000,13
+51,90,addcart,thiet-bi-ve-sinh,3-17,Smartphone Xiaomi,7000000,32
+56,36,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,11
+70,34,purchased,may-loc-nuoc,36-55,Điều hòa Daikin 12000 BTU,12000000,38
+12,54,purchased,tam-op-tuong,36-55,Tivi LG 55 inch,15000000,15
+19,21,addcart,tam-op-tuong,55+,Lò vi sóng Panasonic,5000000,15
+29,27,addcart,may-loc-nuoc,3-17,Lò vi sóng Panasonic,5000000,7
+83,66,view,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,36
+83,74,view,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,9
+91,52,addcart,xe-dien,3-17,Loa bluetooth JBL,3000000,49
+11,63,purchased,thiet-bi-ve-sinh,18-35,Máy tính xách tay Dell,20000000,50
+33,63,purchased,xe-dien,18-35,Máy lọc không khí Sharp,6000000,45
+28,64,purchased,may-loc-nuoc,55+,Máy lọc không khí Sharp,6000000,45
+2,93,view,xe-dien,36-55,Smartphone Xiaomi,7000000,31
+55,60,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,42
+14,52,addcart,tam-op-tuong,18-35,Lò vi sóng Panasonic,5000000,18
+19,19,addcart,thiet-bi-ve-sinh,55+,Tivi LG 55 inch,15000000,3
+81,61,view,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,5
+23,10,view,thiet-bi-ve-sinh,18-35,Máy lọc không khí Sharp,6000000,54
+14,6,purchased,tam-op-tuong,18-35,Máy giặt Electrolux 9kg,8000000,28
+14,1,view,tam-op-tuong,36-55,Máy tính xách tay Dell,20000000,32
+100,35,purchased,thiet-bi-ve-sinh,3-17,Lò vi sóng Panasonic,5000000,31
+66,72,view,thiet-bi-ve-sinh,3-17,Tủ lạnh Samsung 300L,10000000,24
+62,14,addcart,may-loc-nuoc,55+,Máy ảnh Canon EOS,25000000,40
+81,62,view,tam-op-tuong,3-17,Loa bluetooth JBL,3000000,0
+57,16,view,tam-op-tuong,55+,Máy giặt Electrolux 9kg,8000000,41
+25,85,addcart,thiet-bi-ve-sinh,3-17,Loa bluetooth JBL,3000000,19
+29,65,purchased,xe-dien,3-17,Lò vi sóng Panasonic,5000000,13
+49,58,purchased,may-loc-nuoc,36-55,Loa bluetooth JBL,3000000,2
+14,14,view,xe-dien,36-55,Lò vi sóng Panasonic,5000000,2
+52,22,view,xe-dien,55+,Loa bluetooth JBL,3000000,54
+56,81,addcart,xe-dien,36-55,Máy tính xách tay Dell,20000000,11
+88,85,addcart,may-loc-nuoc,36-55,Lò vi sóng Panasonic,5000000,33
+51,83,purchased,xe-dien,55+,Tivi LG 55 inch,15000000,35
+47,52,view,may-loc-nuoc,18-35,Máy tính xách tay Dell,20000000,24
+88,62,view,tam-op-tuong,55+,Loa bluetooth JBL,3000000,31
+64,93,purchased,thiet-bi-ve-sinh,36-55,Tủ lạnh Samsung 300L,10000000,21
+97,33,addcart,thiet-bi-ve-sinh,3-17,Điều hòa Daikin 12000 BTU,12000000,0
+4,85,purchased,tam-op-tuong,18-35,Máy lọc không khí Sharp,6000000,19
+17,47,addcart,may-loc-nuoc,55+,Loa bluetooth JBL,3000000,11
+29,14,purchased,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,24
+16,24,addcart,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,28
+92,61,view,thiet-bi-ve-sinh,55+,Lò vi sóng Panasonic,5000000,40
+58,94,addcart,thiet-bi-ve-sinh,55+,Máy giặt Electrolux 9kg,8000000,2
+69,94,purchased,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,51
+41,35,purchased,thiet-bi-ve-sinh,36-55,Lò vi sóng Panasonic,5000000,1
+61,52,addcart,may-loc-nuoc,36-55,Smartphone Xiaomi,7000000,28
+37,94,addcart,may-loc-nuoc,36-55,Máy tính xách tay Dell,20000000,28
+11,51,addcart,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,2
+85,12,addcart,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,24
+12,58,addcart,thiet-bi-ve-sinh,36-55,Smartphone Xiaomi,7000000,11
+57,69,purchased,thiet-bi-ve-sinh,36-55,Tivi LG 55 inch,15000000,5
+7,47,view,tam-op-tuong,36-55,Lò vi sóng Panasonic,5000000,49
+53,66,view,may-loc-nuoc,36-55,Máy ảnh Canon EOS,25000000,9
+4,73,view,may-loc-nuoc,55+,Máy giặt Electrolux 9kg,8000000,42
+8,68,view,thiet-bi-ve-sinh,55+,Smartphone Xiaomi,7000000,5
+16,51,view,tam-op-tuong,3-17,Máy lọc không khí Sharp,6000000,10
+50,30,addcart,xe-dien,55+,Tủ lạnh Samsung 300L,10000000,40
+76,26,view,xe-dien,3-17,Máy giặt Electrolux 9kg,8000000,2
+59,73,addcart,thiet-bi-ve-sinh,55+,Máy lọc không khí Sharp,6000000,8
+49,4,purchased,tam-op-tuong,55+,Tủ lạnh Samsung 300L,10000000,27
+9,34,addcart,xe-dien,36-55,Máy tính xách tay Dell,20000000,9
+90,22,view,tam-op-tuong,36-55,Máy lọc không khí Sharp,6000000,32
+81,31,purchased,xe-dien,55+,Lò vi sóng Panasonic,5000000,34
+99,64,addcart,may-loc-nuoc,18-35,Máy giặt Electrolux 9kg,8000000,4
+91,4,view,tam-op-tuong,55+,Máy ảnh Canon EOS,25000000,2
+26,60,view,tam-op-tuong,36-55,Máy ảnh Canon EOS,25000000,23
+33,14,purchased,xe-dien,18-35,Tủ lạnh Samsung 300L,10000000,28
+48,72,addcart,may-loc-nuoc,18-35,Điều hòa Daikin 12000 BTU,12000000,0
+54,73,view,tam-op-tuong,3-17,Máy ảnh Canon EOS,25000000,20
+7,42,view,may-loc-nuoc,3-17,Máy ảnh Canon EOS,25000000,31
+8,35,addcart,xe-dien,36-55,Máy lọc không khí Sharp,6000000,19
+43,5,view,thiet-bi-ve-sinh,18-35,Tivi LG 55 inch,15000000,55
+29,38,addcart,tam-op-tuong,36-55,Điều hòa Daikin 12000 BTU,12000000,9

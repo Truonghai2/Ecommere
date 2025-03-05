@@ -1,0 +1,842 @@
+[
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 52,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 13,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 17,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 5,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 5,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "like",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 5,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 16,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 4,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 23,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 1,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 14,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 4,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 23,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 1,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 14,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 4,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 23,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 1,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 14,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 4,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 23,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 1,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 14,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 8,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 21,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 21,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 21,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 33,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 33,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "addcart",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 21,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 14,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 53,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 33,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "purchased",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 3,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 5,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 20,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 15,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 15,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 23,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    },
+    {
+        "user_id": 1,
+        "product_id": 13,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "36-55"
+    }
+]

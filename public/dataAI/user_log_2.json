@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": 2,
+        "product_id": 13,
+        "product_name": null,
+        "price": 0,
+        "sale": 0,
+        "action": "view",
+        "category": null,
+        "age": "55+"
+    }
+]
